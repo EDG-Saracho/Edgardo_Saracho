@@ -44,8 +44,10 @@ theme:
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
+    text: Poppins
     code: Cutive Mono
+  icon:
+    logo: 
   favicon: images/Edg_iso.svg
   features:
     - instant
