@@ -47,7 +47,7 @@ theme:
     text: Be Vietnam
     code: Cutive Mono
   icon:
-    favicon: images/Edg_iso_blanco.svg
+    logo: images/Edg_iso_blanco.png
   favicon: images/Edg_iso.svg
   features:
     - instant
