@@ -48,7 +48,7 @@ theme:
     code: Cutive Mono
   icon:
     logo: material/memory
-  favicon: images/favicon.svg
+  favicon: images/Edg_iso.svg
   features:
     - instant
     - navigation.expand
