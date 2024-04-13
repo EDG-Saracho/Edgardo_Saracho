@@ -47,7 +47,7 @@ theme:
     text: Poppins
     code: Cutive Mono
   icon:
-    logo: 
+    logo: images/Edg_iso_blanco.svg
   favicon: images/Edg_iso.svg
   features:
     - instant
