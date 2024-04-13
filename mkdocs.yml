@@ -1,11 +1,11 @@
 # Replace the text below to customize your site
 site_name: Edgardo Saracho - UTEC & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Nombre Estudiante
-copyright: Copyleft 2024 "Nombre Estudiante" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/efdi-template/
-repo_url: https://github.com/fablabbcn/efdi-template
+site_author: Edgardo Saracho
+copyright: Copyleft 2024 "Edgardo_Saracho" - GNU Free Documentation License
+repo_name: 'Name : Edgardo_Saracho'
+site_url: https://edg-saracho.github.io/Edgardo_Saracho/
+repo_url: https://github.com/EDG-Saracho/Edgardo_Saracho.git
 
 
 nav:
