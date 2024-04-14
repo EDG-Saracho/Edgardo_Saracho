@@ -49,8 +49,7 @@
     </div>
 
     <div class="right-div">
-        <img src=
-        " alt="images/perfil.png" />
+        <img src="images/perfil.png" alt="perfil" />
     </div>
 </body>
 </html>
