@@ -11,6 +11,10 @@
         .left-div {
             flex: 1;
             padding-right: 20px;
+            display:flex; 
+            align-content: center; 
+            justify-content:center; 
+            width: 50%;
         }
 
         /* Estilo para el botón dentro del div izquierdo */
@@ -32,8 +36,10 @@
 
         /* Estilos del div derecho */
         .right-div {
+            display:flex;
             justify-content: center;
             align-items: center;
+            width: 50%;
         }
 
         /* Estilo para la imagen dentro del div derecho */
@@ -44,13 +50,15 @@
     </style>
 </head>
 <body>
-    <!-- Div izquierdo con texto y botón -->
-    <div class="left-div">
-        <p>Texto del div izquierdo aquí.</p>
-        <button onclick="window.location.href='https://www.behance.net/edg_uy'" target="_blank">Portfolio</button>
-    </div>
- <div class="right-div">
-   <img src="'../images/perfil.png'" alt="Imagen" />
+    <div style="display:flex; width: 100%; align-items: flex-start; align-content: flex-start; flex-wrap:wrap;">
+        <!-- Div izquierdo con texto y botón -->
+        <div class="left-div">
+            <p>Texto del div izquierdo aquí.</p>
+            <button onclick="window.location.href='https://www.behance.net/edg_uy'" target="_blank">Portfolio</button>
+        </div>
+        <div class="right-div">
+            <img src="'../images/perfil.png'" alt="Imagen" />
+        </div>
     </div>
 </body>
 </html>
