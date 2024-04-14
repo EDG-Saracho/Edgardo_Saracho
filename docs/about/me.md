@@ -32,8 +32,6 @@
 
         /* Estilos del div derecho */
         .right-div {
-        
-            display: flex;
             justify-content: center;
             align-items: center;
         }
@@ -49,11 +47,10 @@
     <!-- Div izquierdo con texto y botón -->
     <div class="left-div">
         <p>Texto del div izquierdo aquí.</p>
-        <button onclick="window.location.href='https://www.behance.net/edg_uy'">Portfolio</button>
+        <button onclick="window.location.href='https://www.behance.net/edg_uy'" target="_blank">Portfolio</button>
     </div>
-
-    <div class="right-div">
-        <img src="(../images/perfil.png)" alt="perfil" />
+ <div class="right-div">
+   <img src="../images/perfil.png" alt="Imagen" />
     </div>
 </body>
 </html>
