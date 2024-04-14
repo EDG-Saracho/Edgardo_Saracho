@@ -10,7 +10,7 @@ repo_url: https://github.com/EDG-Saracho/Edgardo_Saracho.git
 
 nav:
   - Home: index.md
-  - Sobre M[i]: about/me.md
+  - Sobre mí: about/me.md
   - Modulos Técnicos :
     - MT01: tecnicos/mt01.md
     - MT02: tecnicos/mt02.md
