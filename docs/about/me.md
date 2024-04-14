@@ -50,7 +50,7 @@
 
     <div class="right-div">
         <img src=
-        " alt="image/perfil.png" />
+        " alt="images/perfil.png" />
     </div>
 </body>
 </html>
