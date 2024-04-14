@@ -13,7 +13,10 @@
 }
 
 .md-footer {
-  margin-top: auto; /* Empuja el footer hacia abajo */
+  position: fixed;
+  bottom: 0;
+  padding: 10px 0;
+  z-index: 1000; /* Asegura que el footer esté por encima de otros elementos */
 }
 
 .hide-scroll-bar {
