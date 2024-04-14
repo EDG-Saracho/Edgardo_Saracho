@@ -1,60 +1,6 @@
 # Edgardo Saracho
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Divs Flotantes</title>
-    <style>
-        /* Contenedor principal */
-        .container {
-            display: flex;
-            justify-content: space-between;
-            width: 100%;
-            padding: 20px;
-        }
 
-        /* Estilos del div izquierdo */
-        .left-div {
-            flex: 1;
-            padding-right: 20px;
-        }
-
-        /* Estilo para el botón dentro del div izquierdo */
-        .left-div button {
-            width: 126px;
-            height: 42px;
-            background: #59C999;
-            border-radius: 26px;
-            opacity: 1;
-            border: none;
-            color: white;
-            font-size: 16px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-
-        /* Cambio de color al pasar el ratón por el botón */
-        .left-div button:hover {
-            background-color: #282826;
-        }
-
-        /* Estilos del div derecho */
-        .right-div {
-            flex: 1;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        /* Estilo para la imagen dentro del div derecho */
-        .right-div img {
-            max-width: 100%;
-            max-height: 100%;
-        }
-    </style>
-</head>
-<body>
     <div class="container">
         <!-- Div izquierdo con texto y botón -->
         <div class="left-div">
@@ -74,7 +20,6 @@
             <img src="images/perfil.png" alt="Imagen"></img>
         </div>
     </div>
-</body>
-</html>
+
 
 
