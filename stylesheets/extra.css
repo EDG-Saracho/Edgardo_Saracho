@@ -49,6 +49,7 @@
   background-image: url("../images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed; /* Fondo estático */
   height: 100vh; /* Esto ajusta la altura al 100% del viewport */
 }
 
