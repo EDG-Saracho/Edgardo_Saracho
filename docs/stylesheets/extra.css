@@ -42,6 +42,10 @@
     font-size: 14px;
 }
 
+.md-main{
+  background-image: url("../images/Background.png");
+}
+
 :root {
   --md-primary-fg-color:        #384444;
   --md-primary-fg-color--light: #6efbbf;
