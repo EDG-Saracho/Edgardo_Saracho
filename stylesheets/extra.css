@@ -7,7 +7,7 @@
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Poppins', sans-serif;
     --mdc-typography-font-family: 'Poppins', sans-serif;
-    --md-typeset-a-color:#384444 ;
+    --md-typeset-a-color:#282826 ;
     --md-typeset-a-font-weight: bold;
 
 }
@@ -47,7 +47,7 @@
 }
 
 :root {
-  --md-primary-fg-color:        #384444;
+  --md-primary-fg-color:        #282826;
   --md-primary-fg-color--light: #6efbbf;
   --md-primary-fg-color--dark:  #0c453aff;
 }
