@@ -24,6 +24,10 @@
             color: white;
             font-size: 16px;
             cursor: pointer;
+        
+        }
+        .left-div button:hover {
+            background-color: #282826;
         }
 
         /* Estilos del div derecho */
@@ -45,11 +49,11 @@
     <!-- Div izquierdo con texto y botón -->
     <div class="left-div">
         <p>Texto del div izquierdo aquí.</p>
-        <button onclick="window.location.href='tu_pagina_web.html'">Portfolio</button>
+        <button onclick="window.location.href='https://www.behance.net/edg_uy'">Portfolio</button>
     </div>
 
     <div class="right-div">
-        <img src="images/perfil.png" alt="perfil" />
+        <img src="../images/perfil.png" alt="perfil" />
     </div>
 </body>
 </html>
