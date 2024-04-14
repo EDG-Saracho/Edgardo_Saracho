@@ -48,9 +48,3 @@
   --md-primary-fg-color--dark:  #0c453aff;
 }
 
-.background-container {
-  background-image: url('images/background.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 100vh; /* Esto ajusta la altura al 100% del viewport */
-}
