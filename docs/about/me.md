@@ -6,15 +6,7 @@
     <meta charset="UTF-8">
     <title>Divs Flotantes</title>
     <style>
-        /* Estilos generales */
-        body {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            height: 100vh;
-            padding: 20px;
-        }
-
+    
         /* Estilos del div izquierdo */
         .left-div {
             flex: 1;
@@ -36,8 +28,7 @@
 
         /* Estilos del div derecho */
         .right-div {
-            width: 126px;
-            height: 42px;
+        
             display: flex;
             justify-content: center;
             align-items: center;
@@ -57,9 +48,9 @@
         <button onclick="window.location.href='tu_pagina_web.html'">Portfolio</button>
     </div>
 
-    <!-- Div derecho con imagen -->
     <div class="right-div">
-        <img src="ruta/a/tu/imagen.jpg" alt="Imagen" />
+        <img src=
+        " alt="image/perfil.png" />
     </div>
 </body>
 </html>
