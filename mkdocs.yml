@@ -1,7 +1,7 @@
 # Replace the text below to customize your site
-site_name: Edgardo Saracho
+site_name: Edgardo
 site_description: ESPECIALIZACIÓN EN FABRICACIÓN DIGITAL E INNOVACIÓN
-site_author: Edgardo Saracho
+site_author: Edgardo Saracho - UTEC & Fab Lab Barcelona
 copyright: Copyleft 2024 "Edgardo_Saracho" - GNU Free Documentation License
 repo_name: 'Name : Edgardo_Saracho'
 site_url: https://edg-saracho.github.io/Edgardo_Saracho/
@@ -46,7 +46,7 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Poppins
     code: Cutive Mono
-  logo: images/Edg_iso_blanco02.png
+  logo: images/Edg_iso_blanco.png
   favicon: images/Edg_iso.svg
   features:
     - instant
