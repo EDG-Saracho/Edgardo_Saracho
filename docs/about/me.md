@@ -71,7 +71,7 @@
 
         <!-- Div derecho con imagen -->
         <div class="right-div">
-            <img src="../images/perfil.png" alt="Imagen">
+            <img src="docs/images/perfil.png" alt="Imagen">
         </div>
     </div>
 </body>
