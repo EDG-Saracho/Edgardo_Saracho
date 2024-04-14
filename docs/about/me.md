@@ -7,7 +7,7 @@
     <title>Divs Flotantes</title>
     <style>
         /* Contenedor principal */
-        .container {
+        .container_about {
             display: flex;
             justify-content: space-between;
             width: 100%;
@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="container_about">
         <!-- Div izquierdo con texto y botón -->
         <div class="left-div">
             <p>Licenciado en Diseño Industrial - Producto de la Escuela Universitaria Centro de Diseño (EUCD). Técnico Terciario en Diseño Gráfico egresado de la Escuela Comunicación Social.</p>
