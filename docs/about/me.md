@@ -1,7 +1,67 @@
-# Sobre mi
+# Edgardo Saracho
 
-![](../images/)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Divs Flotantes</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 100vh;
+            padding: 20px;
+        }
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        /* Estilos del div izquierdo */
+        .left-div {
+            flex: 1;
+            padding-right: 20px;
+        }
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+        /* Estilo para el botón dentro del div izquierdo */
+        .left-div button {
+            width: 126px;
+            height: 42px;
+            background: #59C999;
+            border-radius: 26px;
+            opacity: 1;
+            border: none;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        /* Estilos del div derecho */
+        .right-div {
+            width: 126px;
+            height: 42px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* Estilo para la imagen dentro del div derecho */
+        .right-div img {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <!-- Div izquierdo con texto y botón -->
+    <div class="left-div">
+        <p>Texto del div izquierdo aquí.</p>
+        <button onclick="window.location.href='tu_pagina_web.html'">Portfolio</button>
+    </div>
+
+    <!-- Div derecho con imagen -->
+    <div class="right-div">
+        <img src="ruta/a/tu/imagen.jpg" alt="Imagen" />
+    </div>
+</body>
+</html>
+
