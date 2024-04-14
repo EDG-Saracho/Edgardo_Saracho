@@ -8,7 +8,6 @@
     <style>
         /* Estilos generales */
         body {
-            font-family: Arial, sans-serif;
             display: flex;
             justify-content: space-between;
             align-items: center;
