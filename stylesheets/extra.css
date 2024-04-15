@@ -123,8 +123,14 @@
 .image-container img {
   max-width: 100%;
   max-height: 100%;
+  margin-right: 10px;
 }
 
+.text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
 /* Estilo para el texto al lado de la imagen */
 .image-text {
   position: absolute;
