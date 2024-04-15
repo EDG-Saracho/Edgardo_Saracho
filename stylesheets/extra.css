@@ -47,7 +47,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; /* Fondo estático */
-  padding-bottom: 60px;
+  padding-bottom: 20%;
 }
 
 .md-footer {
