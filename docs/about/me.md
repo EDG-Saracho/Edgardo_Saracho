@@ -15,6 +15,7 @@
         </div>
         <div class="right-div">
             <img src="https://github.com/EDG-Saracho/Edgardo_Saracho/blob/main/docs/images/perfil.png?raw=true"></img>
+            <img src="docs/images/logo_edg.png"></img>
         </div>
     </div>
 
