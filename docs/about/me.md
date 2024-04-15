@@ -1,5 +1,5 @@
-# Edgardo Saracho
-
+# Sobre mí
+## Edgardo Saracho 
 <div class="container_about">
         <!-- Div izquierdo con texto y botón -->
         <div class="left-div">
