@@ -11,7 +11,7 @@
 
             <p>Me gusta el diseño en general, investigar y aprender cosas nuevas. Soy autodidacta y busco seguir creciendo como profesional.</p>
 
-            <button onclick="window.location.href='https://www.behance.net/edg_uy'" target="_blank">Portfolio</button>
+            <button onclick="window.open('https://www.behance.net/edg_uy', '_blank')">Portfolio</button>
         </div>
         <div class="right-div">
             <div class="image-container">
