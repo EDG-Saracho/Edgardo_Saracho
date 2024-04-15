@@ -52,6 +52,14 @@
             max-width: 100%;
             max-height: 100%;
         }
+
+        html {
+             min-height: 100%;
+             position: relative;
+                }
+        body { margin: 0;
+               margin-bottom: 40px;
+                }
     </style>
 </head>
 <body>
