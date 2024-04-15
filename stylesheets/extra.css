@@ -63,4 +63,48 @@
   --md-primary-fg-color--dark:  #0c453aff;
 }
 
+/* Contenedor principal */
+.container_about {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
 
+/* Estilos del div izquierdo */
+.left-div {
+  flex: 1;
+  padding-right: 20px;
+}
+
+/* Estilo para el botón dentro del div izquierdo */
+.left-div button {
+  width: 126px;
+  height: 42px;
+  background: #59C999;
+  border-radius: 26px;
+  opacity: 1;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Cambio de color al pasar el ratón por el botón */
+.left-div button:hover {
+  background-color: #282826;
+}
+
+/* Estilos del div derecho */
+.right-div {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Estilo para la imagen dentro del div derecho */
+.right-div img {
+  max-width: 100%;
+  max-height: 100%;
+}
