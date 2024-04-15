@@ -53,11 +53,10 @@
 
 .md-footer {
   position: fixed;
-  display: flex;
   bottom: 0;
   width: 100%;
-  padding: 10px 0;
   z-index: 1000; /* Asegura que el footer esté por encima de otros elementos */
+  background-color: white;
 }
 
 :root {
