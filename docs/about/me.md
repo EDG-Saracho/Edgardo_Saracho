@@ -14,7 +14,7 @@
             <button onclick="window.location.href='https://www.behance.net/edg_uy'" target="_blank">Portfolio</button>
         </div>
         <div class="right-div">
-            <img src="https://github.com/EDG-Saracho/Edgardo_Saracho/blob/main/docs/images/perfil.png"></img>
+            <img src="https://github.com/EDG-Saracho/Edgardo_Saracho/blob/main/docs/images/perfil.png?raw=true"></img>
         </div>
     </div>
 
