@@ -128,8 +128,9 @@
 
 .text-container {
   display: flex;
-    flex-direction: row;
-    align-items: center;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 .text-container p {
