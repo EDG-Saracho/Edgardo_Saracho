@@ -76,12 +76,12 @@
             <button onclick="window.location.href='https://www.behance.net/edg_uy'" target="_blank">Portfolio</button>
         </div>
         <div class="right-div">
-        
+        ![Perfil](../images/perfil.png)
         </div>
     </div>
 </body>
 </html>
 
-![Perfil](../images/perfil.png)
+
 
 
