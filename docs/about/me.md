@@ -14,7 +14,7 @@
             <button onclick="window.location.href='https://www.behance.net/edg_uy'" target="_blank">Portfolio</button>
         </div>
         <div class="right-div">
-            <img src="docs/images/perfil.png" alt="Imagen">
+            <img src="images/perfil.png"></img>
         </div>
     </div>
 
