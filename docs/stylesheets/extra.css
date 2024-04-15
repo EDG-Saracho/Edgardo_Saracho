@@ -2,7 +2,7 @@
 
     --md-footer-bg-color: none;
     --md-footer-fg-color: rgb(32, 32, 32);
-    --md-footer-bg-color--dark: white;
+    --md-footer-bg-color--dark:#59C999;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Poppins', sans-serif;
@@ -45,7 +45,7 @@
 
 /* Estilo para el texto destacado */
 .highlight {
-  color: #59C999; /* Color destacado */
+  color: #282826; /* Color destacado */
   font-weight: bold; /* Texto en negrita */
 }
 .md-main{
@@ -60,12 +60,11 @@
   position: absolute;
   bottom: 0;
   width: 100%;
-  background-color: white;
 }
 
 :root {
   --md-primary-fg-color:        #282826;
-  --md-primary-fg-color--light: #6efbbf;
+  --md-primary-fg-color--light: #59C999;
   --md-primary-fg-color--dark:  #0c453aff;
 }
 
