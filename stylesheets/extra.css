@@ -128,12 +128,16 @@
 
 .text-container {
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+}
+
+.text-container p {
+  font-size: 12px;
 }
 /* Estilo para el texto al lado de la imagen */
 .image-text {
   padding: 10px;
-  text-align: right;
+  text-align: left;
 }
 
