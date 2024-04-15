@@ -123,7 +123,7 @@
 .image-container img {
   max-width: 100%;
   max-height: 100%;
-  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .text-container {
@@ -133,9 +133,6 @@
 }
 /* Estilo para el texto al lado de la imagen */
 .image-text {
-  position: absolute;
-  top: 0;
-  right: 0;
   padding: 10px;
   text-align: right;
 }
