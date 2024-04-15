@@ -111,5 +111,26 @@
 .right-div img {
   max-width: 100%;
   max-height: 100%;
+  
+}
+
+/* Contenedor de la imagen y el texto */
+.image-container {
+  position: relative;
+}
+
+/* Estilo para la imagen dentro del contenedor */
+.image-container img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/* Estilo para el texto al lado de la imagen */
+.image-text {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  text-align: right;
 }
 
