@@ -66,6 +66,7 @@
     <div class="container_about">
         <!-- Div izquierdo con texto y botón -->
         <div class="left-div">
+        <img src="../images/perfil.png" alt="Imagen"></img>
             <p>Licenciado en Diseño Industrial - Producto de la Escuela Universitaria Centro de Diseño (EUCD). Técnico Terciario en Diseño Gráfico egresado de la Escuela Comunicación Social.</p>
 
             <p>Actualmente me desempeño como docente G°1 en las asignaturas Identidad visual (EUCD), Taller de diseño transversal (LDCV) y en Género y comunicación visual (LDCV), dentro de la FADU. También cuento con una marca propia de diseño de interfaces para relojes digitales.</p>
@@ -77,7 +78,7 @@
             <button onclick="window.location.href='https://www.behance.net/edg_uy'" target="_blank">Portfolio</button>
         </div>
         <div class="right-div">
-            <img src="../images/perfil.png" alt="Imagen"></img>
+            
         </div>
     </div>
 </body>
