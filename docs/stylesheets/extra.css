@@ -52,10 +52,9 @@
 }
 
 .md-footer {
-  position: fixed;
+  position: absolute;
   bottom: 0;
   width: 100%;
-  z-index: 1000; /* Asegura que el footer esté por encima de otros elementos */
   background-color: white;
 }
 
@@ -65,3 +64,11 @@
   --md-primary-fg-color--dark:  #0c453aff;
 }
 
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  margin-bottom: 40px;
+}
