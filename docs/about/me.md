@@ -19,7 +19,7 @@
                 <div class="text-container">
                     <img src="https://github.com/EDG-Saracho/Edgardo_Saracho/blob/main/docs/images/logo_edg.png?raw=true"></img>
                     <div class="image-text">
-                    <p><span class="highlight">Contacto:</span><br> texto01<br> texto02 </p>
+                        <p><span class="highlight">Contacto:</span><br> texto01<br> texto02 </p>
                     </div>
                 </div>
             </div>
