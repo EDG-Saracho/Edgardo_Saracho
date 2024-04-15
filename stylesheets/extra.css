@@ -34,7 +34,8 @@
 }
 
 .md-typeset h2 {
-    font-weight: 500;
+    font-weight: bold;
+    color: #59C999; /* Color destacado */
 }
 
 .mdc-typography--body2 {
@@ -42,6 +43,11 @@
     font-size: 14px;
 }
 
+/* Estilo para el texto destacado */
+.highlight {
+  color: #59C999; /* Color destacado */
+  font-weight: bold; /* Texto en negrita */
+}
 .md-main{
   background-image: url("../images/background.png");
   background-size: cover;
@@ -108,3 +114,4 @@
   max-width: 100%;
   max-height: 100%;
 }
+
