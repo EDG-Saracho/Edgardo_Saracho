@@ -162,7 +162,7 @@
   }
 
   /* Ajuste de tamaño de la imagen para dispositivos móviles */
-  .image-container img[src="01"] {
+  .image-container img[src="https://github.com/EDG-Saracho/Edgardo_Saracho/blob/main/docs/images/perfil.png?raw=true"] {
     width: 70%; /* Reducción del 70% del tamaño original */
   }
 }
