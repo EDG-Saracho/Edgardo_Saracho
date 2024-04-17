@@ -150,7 +150,7 @@
 /* Media query para dispositivos móviles */
  @media screen and (max-width: 768px) {
   .container_about {
-    flex-direction: column-reverse; /* Mover el botón al final */
+    flex-direction: column;
   }
 
   .left-div {
