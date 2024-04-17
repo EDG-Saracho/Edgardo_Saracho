@@ -67,17 +67,21 @@
   --md-primary-fg-color--dark:  #282826;
 }
 
+/* ----------------------------- */ 
+
 /* Contenedor principal */
 .container_about {
   display: flex;
   justify-content: space-between;
   width: 100%;
+  flex-wrap: wrap;
 }
 
 /* Estilos del div izquierdo */
 .left-div {
   flex: 1;
   padding-right: 20px;
+  flex-basis: 100%;
 }
 
 /* Estilo para el botón dentro del div izquierdo */
@@ -143,3 +147,10 @@
   text-align: left;
 }
 
+/* Media query para dispositivos móviles */
+@media screen and (max-width: 768px) {
+  .container_about {
+    flex-direction: column;
+  }
+}
+/* ----------------------------- */ 
