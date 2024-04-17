@@ -80,7 +80,6 @@
 .left-div {
   flex: 1;
   padding-right: 20px;
-  flex-basis: 100%;
 }
 
 /* Estilo para el botón dentro del div izquierdo */
@@ -147,7 +146,7 @@
 }
 
 /* Media query para dispositivos móviles */
-/* @media screen and (max-width: 768px) {
+ @media screen and (max-width: 768px) {
   .container_about {
     flex-direction: column;
   }
