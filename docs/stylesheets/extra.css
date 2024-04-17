@@ -160,5 +160,10 @@
   .left-div button {
     width: 100%;
   }
+
+  /* Ajuste de tamaño de la imagen para dispositivos móviles */
+  .image-container img[src="01"] {
+    width: 70%; /* Reducción del 70% del tamaño original */
+  }
 }
 /* ----------------------------- */ 
