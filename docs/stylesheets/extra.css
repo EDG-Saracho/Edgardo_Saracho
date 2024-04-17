@@ -161,6 +161,12 @@
     width: 100%;
   }
 
+  .left-div button {
+    width: 100%;
+    order: 2; /* Mover el botón al final */
+    margin-top: 10px; /* Espacio entre la imagen y el botón */
+  }
+  
    /* Ajuste de tamaño de la imagen para dispositivos móviles */
    .image-container img[src="https://github.com/EDG-Saracho/Edgardo_Saracho/blob/main/docs/images/perfil.png?raw=true"] {
     width: 70%; /* Reducción del 70% del tamaño original */
