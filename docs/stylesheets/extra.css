@@ -74,7 +74,6 @@
   display: flex;
   justify-content: space-between;
   width: 100%;
-  flex-wrap: wrap;
 }
 
 /* Estilos del div izquierdo */
@@ -151,6 +150,14 @@
 @media screen and (max-width: 768px) {
   .container_about {
     flex-direction: column;
+  }
+
+  .left-div {
+    padding-right: 0;
+  }
+
+  .left-div button {
+    width: 100%;
   }
 }
 /* ----------------------------- */ 
