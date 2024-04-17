@@ -64,7 +64,7 @@
 :root {
   --md-primary-fg-color:        #282826;
   --md-primary-fg-color--light: #59C999;
-  --md-primary-fg-color--dark:  #0c453aff;
+  --md-primary-fg-color--dark:  #282826;
 }
 
 /* Contenedor principal */
@@ -143,19 +143,3 @@
   text-align: left;
 }
 
-/* MT01 - ZOOM IMAGENES */
-
-.zoomable-image {
-  position: relative;
-  cursor: zoom-in;
-}
-
-.zoomable-image img {
-  max-width: 100%;
-  height: auto;
-  transition: transform 0.3s ease;
-}
-
-.zoomable-image:hover img {
-  transform: scale(1.5);
-}
