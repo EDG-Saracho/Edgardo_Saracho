@@ -144,6 +144,8 @@
   padding: 10px;
   text-align: left;
 }
+/* ----------------------------- */ 
+
 
 /* Media query para dispositivos móviles */
  @media screen and (max-width: 768px) {
