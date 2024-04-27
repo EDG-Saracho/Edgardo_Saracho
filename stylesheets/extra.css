@@ -162,6 +162,8 @@
 
   }
 
+  .custom-button {width: 100%;}
+
 
    /* Ajuste de tamaño de la imagen para dispositivos móviles */
    .image-container img[src="https://github.com/EDG-Saracho/Edgardo_Saracho/blob/main/docs/images/perfil.png?raw=true"] {
@@ -185,4 +187,8 @@
   font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+}
+
+.custom-button:hover {
+  background-color: #282826;
 }
