@@ -173,3 +173,16 @@
   
 }
 /* ----------------------------- */ 
+
+.custom-button {
+  width: 126px;
+  height: 42px;
+  background: #59C999;
+  border-radius: 26px;
+  opacity: 1;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
