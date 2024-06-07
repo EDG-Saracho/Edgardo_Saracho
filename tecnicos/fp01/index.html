@@ -67,6 +67,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#fabricacion-presencial-en-laboratorio" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -277,10 +282,69 @@
     
     <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        FP01
+        <span class="md-nav__icon md-icon"></span>
+      </label>
     
     <a href="./" title="FP01" class="md-nav__link md-nav__link--active">
       FP01
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduccion" class="md-nav__link">
+    Introducción
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#kerfing-lineas-de-quiebre" class="md-nav__link">
+    Kerfing líneas de quiebre
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#espesores-insuficientes" class="md-nav__link">
+    Espesores Insuficientes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultado-final" class="md-nav__link">
+    Resultado Final
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusion" class="md-nav__link">
+    Conclusión
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -411,6 +475,64 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduccion" class="md-nav__link">
+    Introducción
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#kerfing-lineas-de-quiebre" class="md-nav__link">
+    Kerfing líneas de quiebre
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#espesores-insuficientes" class="md-nav__link">
+    Espesores Insuficientes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultado-final" class="md-nav__link">
+    Resultado Final
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusion" class="md-nav__link">
+    Conclusión
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -424,9 +546,38 @@
                   
                 
                 
-                  <h1>FP01</h1>
-                
-                <p>Fabricación presencial en laboratorio</p>
+                <h1 id="fabricacion-presencial-en-laboratorio">Fabricación presencial en laboratorio<a class="headerlink" href="#fabricacion-presencial-en-laboratorio" title="Permanent link">&para;</a></h1>
+<h2 id="introduccion">Introducción<a class="headerlink" href="#introduccion" title="Permanent link">&para;</a></h2>
+<p>El miércoles 5 de junio estuve visitando el Lab en la UTEC de Durazno, donde fui el primero en realizar cortes láser. Utilicé un archivo disponible en la página del MT03. Sin embargo, durante el proceso noté que había perdido un poco de habilidad en el diseño de productos de precisión, lo que me llevó a hacer algunos ajustes en las piezas a lo largo de la jornada. Realicé estas modificaciones en un programa vectorial sin alterar el archivo final en Fusion.</p>
+<h2 id="kerfing-lineas-de-quiebre"><em>Kerfing</em> líneas de quiebre<a class="headerlink" href="#kerfing-lineas-de-quiebre" title="Permanent link">&para;</a></h2>
+<p><strong>Primer Corte</strong>
+En el primer corte, noté varios errores en el proceso de diseño. Lo principal era comprobar si el kerfing funcionaba, pero lamentablemente, el material quedó rígido. Pensé en curvarlo con vapor de agua, pero el objetivo no era la curva en sí, sino el patrón de plegado. Por ello, tras recibir sugerencias, realicé otras pruebas.
+<img alt="primer corte " src="../../images/MT03/01_primer_corte.png" /></p>
+<p><strong>Segundo Corte</strong>
+Tras el error inicial, modifiqué el patrón y en este corte reduje la escala de las perforaciones a la mitad. Sin embargo, el resultado fue que el material se rompió con más facilidad que en la prueba anterior. Empecé a analizar la dirección del quiebre y deduje que los círculos entre las formas curvadas eran los responsables.
+<img alt="Segundo Corte" src="../../images/MT03/02_seg_corte.png" /></p>
+<p><strong>Tercer Corte</strong>
+En esta prueba, eliminé los círculos y generé un nuevo patrón diagonal entre las formas. Sin embargo, el quiebre se produjo nuevamente porque la diagonal era contraria al eje de plegado.
+<img alt="Tercer Corte" src="../../images/MT03/03_ter_corte.png" /></p>
+<p><strong>Cuarto Corte</strong>
+En esta ocasión, modifiqué la trama recordando cómo se pliega cualquier figura laminar que se desea curvar: con líneas verticales perpendiculares a la curva. Marqué aristas perpendiculares a la curva de base y generé un patrón repetitivo mucho más regular. Esta vez, funcionó correctamente.
+<img alt="Cuarto Corte" src="../../images/MT03/04_cuarto_corte.png" /></p>
+<p><strong>Corte Final</strong>
+En la prueba final, me di cuenta de que debía reducir un poco más la escala para obtener mejores resultados, y efectivamente, funcionó a la perfección.
+<img alt="Corte Final" src="../../images/MT03/05_quinto_corte.png" /></p>
+<h2 id="espesores-insuficientes">Espesores Insuficientes<a class="headerlink" href="#espesores-insuficientes" title="Permanent link">&para;</a></h2>
+<p>Un problema que observé, debido a mi tendencia a ser más un diseñador conceptual que técnico, fue el uso de espesores delgados en las formas que soportan fuerzas en relación a la dureza del material. En el primer caso, la pinza que soporta dos fuerzas de presión necesitaba un mayor espesor cerca del encastre para evitar que se rompiera. Otra pieza, que actuaba como soporte para el porta lámpara, se rompió debido a la humedad ambiente, también por tener un espesor demasiado fino.</p>
+<h2 id="resultado-final">Resultado Final<a class="headerlink" href="#resultado-final" title="Permanent link">&para;</a></h2>
+<p>En general, el resultado final coincidió con lo que había proyectado. Los encastres funcionaron bien. Inicialmente, la holgura parecía excesiva, pero una vez que el MDF absorbió humedad del ambiente, los encastres quedaron justos.
+Utilicé:</p>
+<ul>
+<li>Espesor MDF + Holgura 0.1 × 2</li>
+</ul>
+<p><img alt="Resultado Final" src="../../images/MT03/06_final.png" /></p>
+<h2 id="conclusion">Conclusión<a class="headerlink" href="#conclusion" title="Permanent link">&para;</a></h2>
+<p>El resultado final fue muy satisfactorio y cumplió con mis expectativas. Como prototipo experimental y ejercicio metodológico, he adquirido valiosas herramientas para futuras experimentaciones. Este proceso me ha motivado a proponer nuevos diseños utilizando técnicas similares.</p>
+<p>En relación al kerfing, reconozco que debería haber estudiado más a fondo las referencias para evitar los errores iniciales. Este aprendizaje subraya la importancia de realizar pruebas previas de patrones, lo que permite ahorrar material y optimizar el tiempo de proceso.</p>
+<p>Además, la experiencia de comparar lo que había diseñado en Fusion con la realidad material fue muy enriquecedora. Poder compartir con el equipo y recibir feedback fue invaluable. Realizar pruebas exhaustivas es esencial para la producción, ya que garantiza la eficiencia y la calidad del diseño final.</p>
                 
                   
                     
