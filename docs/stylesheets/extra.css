@@ -192,3 +192,14 @@
 .custom-button:hover {
   background-color: #282826;
 }
+
+
+/* Codigo para copiar----------------------------- */
+.code-container {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px 0;
+  font-family: Consolas, "Courier New", monospace;
+}
