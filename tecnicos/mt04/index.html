@@ -335,21 +335,14 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#pruebas-en-tinkercad" class="md-nav__link">
-    Pruebas en Tinkercad
+  <a href="#input-entrada" class="md-nav__link">
+    Input (Entrada)
   </a>
   
 </li>
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#pruebas-fisicas" class="md-nav__link">
-    Pruebas Físicas
-  </a>
   
 </li>
       
@@ -530,21 +523,14 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#pruebas-en-tinkercad" class="md-nav__link">
-    Pruebas en Tinkercad
+  <a href="#input-entrada" class="md-nav__link">
+    Input (Entrada)
   </a>
   
 </li>
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#pruebas-fisicas" class="md-nav__link">
-    Pruebas Físicas
-  </a>
   
 </li>
       
@@ -572,63 +558,27 @@
 <h2 id="introduccion-a-la-electronica-y-programacion-arduino-ide">Introducción a la electrónica y programación (Arduino IDE)<a class="headerlink" href="#introduccion-a-la-electronica-y-programacion-arduino-ide" title="Permanent link">&para;</a></h2>
 <h3 id="output-salida">Output (Salida)<a class="headerlink" href="#output-salida" title="Permanent link">&para;</a></h3>
 <p>Los pines configurados como salida se utilizan para enviar señales eléctricas desde la placa Arduino hacia otros dispositivos o componentes del proyecto. Esto permite que el Arduino controle el comportamiento de actuadores y otros elementos.</p>
-<p><strong>Ejemplos de salidas:</strong> 
-- LEDs: Emiten luz cuando se les aplica voltaje.
-- Motores: Realizan movimientos.
-- Relés: Actúan como interruptores controlados electrónicamente.
-- Pantallas: Muestran información.</p>
-<p><strong>Comportamiento de los pines de salida:</strong>
-HIGH: El pin envía un voltaje alto.
-LOW: El pin envía un voltaje bajo.</p>
-<h3 id="pruebas-en-tinkercad"><strong>Pruebas en Tinkercad</strong><a class="headerlink" href="#pruebas-en-tinkercad" title="Permanent link">&para;</a></h3>
-<p>[Foto capturas de pantalla]</p>
-<p><strong>Código</strong></p>
-<div class="code-container">
-    <pre><code>
-       // C++ code
-//
-int Led_rojo=12; // los numeros corresponden a los pin digitales
-int Led_azul=11;
-int Led_naranja=10;
-
-int tiempo= 800; // tiempo de luz encendida
-int tiempo2=100; // tiempo de luz apagada
-
-void setup()
-{
-  pinMode(12,OUTPUT);
-  pinMode(11,OUTPUT);
-  pinMode(10,OUTPUT);
-}
-
-void loop()
-{
-  digitalWrite(12, HIGH);
-  delay(tiempo); // tiempo de luz encendida
-  digitalWrite(12, LOW);
-  delay(tiempo2); // tiempo de luz apagada
-
-  digitalWrite(10, HIGH);
-  delay(tiempo); 
-  digitalWrite(10, LOW);
-  delay(tiempo2); 
-
-  digitalWrite(11, HIGH);
-  delay(tiempo); 
-  digitalWrite(11, LOW);
-  delay(tiempo2);
-
-   digitalWrite(11, HIGH);
-  delay(tiempo); 
-  digitalWrite(11, LOW);
-  delay(tiempo);
-}
-    </code></pre>
-</div>
-<h2 id="pruebas-fisicas"><strong>Pruebas Físicas</strong><a class="headerlink" href="#pruebas-fisicas" title="Permanent link">&para;</a></h2>
-<p>Pantalla con mensaje
-servomotor + joystic
-Secuencia de luces LED</p>
+<p><strong>Pruebas de salidas:</strong> 
+- <strong>LEDs:</strong> Emiten luz cuando se les aplica voltaje. la prueba realizada fue una secuencia de luces
+Tinkercad</p>
+<p>**Pruebas en Tinkercad*
+<img alt="Pruebas en Tinkercad Leds" src="../../images/MT04/LEDS.gif" /></p>
+<ul>
+<li><strong>LCD + Buzzer:</strong> Información más sonido. Busqué la melodía de Harry Potter y le puse un mensaje en la pantalla con el nombre del tema.</li>
+</ul>
+<p>**Pruebas en Tinkercad*
+<img alt="Pruebas en Tinkercad buzzer" src="../../images/MT04/HP_buzzer_LCD_output.png" /></p>
+<hr />
+<h3 id="input-entrada">Input (Entrada)<a class="headerlink" href="#input-entrada" title="Permanent link">&para;</a></h3>
+<p>Los pines configurados como entrada se utilizan para recibir información del mundo exterior hacia la placa Arduino. Estos pines leen señales eléctricas que provienen de diversos sensores o dispositivos, y luego el microcontrolador las procesa.</p>
+<p><strong>Pruebas de entradas:</strong>
+- <strong>Joystick + LCD:</strong> Detectan si han sido presionados. Muestra un mensaje en la pantalla cuando se mueve el joystick.</p>
+<p>**Pruebas en Tinkercad*</p>
+<ul>
+<li><strong>Sensor de distancia + led + pantalla + sonido:</strong> Miden la distancia a un objeto, muestra un mensaje y alertas de luz y sonido</li>
+</ul>
+<p>**Pruebas en Tinkercad*
+<img alt="Pruebas en Tinkercad" src="../../images/MT04/sensor_lcd.gif" /></p>
                 
                   
                     
@@ -637,7 +587,7 @@ Secuencia de luces LED</p>
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 23, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 24, 2024</span>
     
   </small>
 </div>
