@@ -584,7 +584,7 @@ Tinkercad</li>
 </ul>
 <p><em>Pruebas en Tinkercad</em> </p>
 <p><img alt="Sensor de distancia + led + pantalla + sonido" src="../../images/MT04/Sensor_d.gif" /></p>
-<p><em>Pruebas fisicas</em></p>
+<p><em>Esquema de conexión</em></p>
 <table>
     <thead>
         <tr>
@@ -626,12 +626,44 @@ Tinkercad</li>
 <ul>
 <li><strong>Joystick + LCD:</strong> Detectan si han sido presionados. Muestra un mensaje en la pantalla cuando se mueve el joystick.</li>
 </ul>
-<p><em>Pruebas fisicas</em></p>
+<p><em>Esquema de conexión</em></p>
 <p><img alt="Joystick + LCD" src="../../images/MT04/joystick_LCD.png" /> </p>
+<table>
+    <thead>
+        <tr>
+            <th>LCD I2C</th>
+            <th>Joystick</th>
+            <th>Alimentación</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>VCC: Conectar a +5V de Arduino</td>
+            <td>VRx (eje X): Conectar a A0 de Arduino</td>
+            <td>Conectar el pin VCC del Arduino a +5V de la placa de pruebas o fuente de alimentación.</td>
+        </tr>
+        <tr>
+            <td>GND: Conectar a GND de Arduino</td>
+            <td>VRy (eje Y): Conectar a A1 de Arduino</td>
+            <td>Conectar GND del Arduino a GND de la placa de pruebas o fuente de alimentación.</td>
+        </tr>
+        <tr>
+            <td>SDA: Conectar a pin A4 (SDA) de Arduino</td>
+            <td>SW (botón): Conectar a pin digital 8 de Arduino</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>SCL: Conectar a pin A5 (SCL) de Arduino</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 <ul>
 <li><strong>Joystick + LCD + servomotor:</strong> Detectan si han sido presionados. Muestra un mensaje en la pantalla cuando se mueve el joystick.</li>
 </ul>
-<p><em>Pruebas fisicas</em></p>
+<p><em>Esquema de conexión</em></p>
 <table>
         <thead>
             <tr>
