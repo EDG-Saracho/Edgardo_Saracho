@@ -571,6 +571,9 @@ Tinkercad</li>
 </ul>
 <p>**Pruebas en Tinkercad*
 <img alt="Pruebas en Tinkercad buzzer" src="../../images/MT04/HP_buzzer_LCD_output.png" /></p>
+<ul>
+<li><strong>Servomotor + Led:</strong></li>
+</ul>
 <p><strong>Video de los Ouputs</strong></p>
 <hr />
 <h3 id="input-entrada">Input (Entrada)<a class="headerlink" href="#input-entrada" title="Permanent link">&para;</a></h3>
@@ -581,6 +584,45 @@ Tinkercad</li>
 </ul>
 <p><em>Pruebas en Tinkercad</em> </p>
 <p><img alt="Sensor de distancia + led + pantalla + sonido" src="../../images/MT04/Sensor_d.gif" /></p>
+<p><em>Pruebas fisicas</em></p>
+<table>
+    <thead>
+        <tr>
+            <th>Sensor Ultrasónico</th>
+            <th>LED</th>
+            <th>Buzzer</th>
+            <th>Pantalla LCD</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>VCC a 5V en el Arduino</td>
+            <td>Conectar el ánodo del LED al pin 5 del Arduino con una resistencia (220 ohms).</td>
+            <td>Conectar el pin positivo del buzzer al pin 9 del Arduino.</td>
+            <td>VCC a 5V en el Arduino (puedes usar la misma fila de alimentación en la breadboard si es necesario).</td>
+        </tr>
+        <tr>
+            <td>GND a GND en el Arduino</td>
+            <td>Conectar el cátodo del LED a GND.</td>
+            <td>Conectar el pin negativo del buzzer a GND.</td>
+            <td>GND a GND en el Arduino.</td>
+        </tr>
+        <tr>
+            <td>TRIG a pin 2 en el Arduino</td>
+            <td></td>
+            <td></td>
+            <td>SDA a SDA en el Arduino (A4 en una placa Arduino Uno).</td>
+        </tr>
+        <tr>
+            <td>ECHO a pin 3 en el Arduino</td>
+            <td></td>
+            <td></td>
+            <td>SCL a SCL en el Arduino (A5 en una placa Arduino Uno).</td>
+        </tr>
+    </tbody>
+</table>
+
+<hr />
 <ul>
 <li><strong>Joystick + LCD:</strong> Detectan si han sido presionados. Muestra un mensaje en la pantalla cuando se mueve el joystick.</li>
 </ul>
