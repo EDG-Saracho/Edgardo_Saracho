@@ -587,7 +587,6 @@
 <hr />
 <h3 id="output-salida">Output (Salida)<a class="headerlink" href="#output-salida" title="Permanent link">&para;</a></h3>
 <p>Los pines configurados como salida se utilizan para enviar señales eléctricas desde la placa Arduino hacia otros dispositivos o componentes del proyecto. Esto permite que el Arduino controle el comportamiento de actuadores y otros elementos.</p>
-<p><strong>Pruebas de salidas:</strong></p>
 <ul>
 <li><strong>LEDs:</strong> Emiten luz cuando se les aplica voltaje. la prueba realizada fue una secuencia de luces
 Tinkercad</li>
@@ -635,6 +634,40 @@ Tinkercad</li>
 </ul>
 <p>**Pruebas en Tinkercad*
 <img alt="Pruebas en Tinkercad buzzer" src="../../images/MT04/HP_buzzer_LCD_output.png" /></p>
+<p><em>Esquema de conexión</em></p>
+<table>
+    <thead>
+        <tr>
+            <th>Componente</th>
+            <th>Conexión</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pantalla LCD</td>
+            <td>
+                VCC a +5V del Arduino<br>
+                GND a GND del Arduino<br>
+                SDA a pin A4 (SDA) del Arduino<br>
+                SCL a pin A5 (SCL) del Arduino
+            </td>
+        </tr>
+        <tr>
+            <td>Buzzer</td>
+            <td>
+                Pin positivo del buzzer a pin 9 del Arduino<br>
+                Pin negativo del buzzer a GND del Arduino
+            </td>
+        </tr>
+        <tr>
+            <td>Alimentación</td>
+            <td>
+                Conecta los pines de 5V y GND del Arduino a las líneas correspondientes en la placa de pruebas.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <ul>
 <li><strong>Servomotor + Led:</strong></li>
 </ul>
@@ -642,7 +675,6 @@ Tinkercad</li>
 <hr />
 <h3 id="input-entrada">Input (Entrada)<a class="headerlink" href="#input-entrada" title="Permanent link">&para;</a></h3>
 <p>Los pines configurados como entrada se utilizan para recibir información del mundo exterior hacia la placa Arduino. Estos pines leen señales eléctricas que provienen de diversos sensores o dispositivos, y luego el microcontrolador las procesa.</p>
-<p><strong>Pruebas de entradas:</strong></p>
 <ul>
 <li><strong>Sensor de distancia + led + pantalla + sonido:</strong> Miden la distancia a un objeto, muestra un mensaje y alertas de luz y sonido</li>
 </ul>
