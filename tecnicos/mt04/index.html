@@ -727,7 +727,7 @@ Tinkercad</p>
 <hr />
 <h3 id="lcd-buzzer"><strong>LCD + Buzzer:</strong><a class="headerlink" href="#lcd-buzzer" title="Permanent link">&para;</a></h3>
 <p>Información más sonido. Busqué la melodía de Harry Potter y le puse un mensaje en la pantalla con el nombre del tema.</p>
-<p>**Pruebas en Tinkercad*
+<p><em>Pruebas en Tinkercad</em>
 <img alt="Pruebas en Tinkercad buzzer" src="../../images/MT04/HP_buzzer_LCD_output.png" /></p>
 <p><em>Esquema de conexión</em></p>
 <table>
@@ -765,6 +765,40 @@ Tinkercad</p>
 
 <hr />
 <h3 id="servomotor-led"><strong>Servomotor + Led:</strong><a class="headerlink" href="#servomotor-led" title="Permanent link">&para;</a></h3>
+<p>Este código controla un servo y un LED utilizando un Arduino. El servo se mueve de 0 a 180 grados y de vuelta a 0 grados en pasos de 1 grado, mientras el LED integrado (conectado al pin 13) parpadea.</p>
+<p><em>Esquema de conexión</em></p>
+<table>
+    <thead>
+        <tr>
+            <th>Componente</th>
+            <th>Conexión</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>LED</td>
+            <td>
+                Ánodo (+) a pin digital 13 del Arduino (LED_BUILTIN)<br>
+                Cátodo (-) a GND con resistencia de 220 ohmios
+            </td>
+        </tr>
+        <tr>
+            <td>Servo</td>
+            <td>
+                Señal a pin 9 del Arduino<br>
+                VCC a 5V<br>
+                GND a GND
+            </td>
+        </tr>
+        <tr>
+            <td>Alimentación</td>
+            <td>
+                Conectar los pines de 5V y GND del Arduino a las líneas correspondientes en la placa de pruebas.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <h3 id="video-de-los-ouputs"><strong>Video de los Ouputs</strong><a class="headerlink" href="#video-de-los-ouputs" title="Permanent link">&para;</a></h3>
 <hr />
 <h2 id="input-entrada">Input (Entrada)<a class="headerlink" href="#input-entrada" title="Permanent link">&para;</a></h2>
