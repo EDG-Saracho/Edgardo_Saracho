@@ -423,6 +423,26 @@
   
 </li>
         
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mini-bomba-de-agua" class="md-nav__link">
+    Mini Bomba de agua
+  </a>
+  
+    <nav class="md-nav" aria-label="Mini Bomba de agua">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#video-sistema-de-bombeo-de-agua" class="md-nav__link">
+    Video Sistema de Bombeo de Agua
+  </a>
+  
+</li>
+        
           <li class="md-nav__item">
   <a href="#links" class="md-nav__link">
     Links
@@ -696,6 +716,26 @@
           <li class="md-nav__item">
   <a href="#video-sensor-de-agua" class="md-nav__link">
     Video Sensor de Agua
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mini-bomba-de-agua" class="md-nav__link">
+    Mini Bomba de agua
+  </a>
+  
+    <nav class="md-nav" aria-label="Mini Bomba de agua">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#video-sistema-de-bombeo-de-agua" class="md-nav__link">
+    Video Sistema de Bombeo de Agua
   </a>
   
 </li>
@@ -1060,6 +1100,61 @@ Tinkercad</p>
 <iframe width="688" height="388" src="https://www.youtube.com/embed/hy7srcx8lHg?si=yEVi63figozflElQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr />
+<h2 id="mini-bomba-de-agua">Mini Bomba de agua<a class="headerlink" href="#mini-bomba-de-agua" title="Permanent link">&para;</a></h2>
+<p>Llevé el experimento un paso más allá al conseguir una mini bomba de agua para reemplazar el motor DC, mismo código. Esto está más alineado con mi proyecto integrador. Ahora, el sistema de bombeo se activa cuando el sensor de agua detecta contacto con el agua y se apaga cuando el nivel de agua baja.</p>
+<p><em>Esquema de conexión Sensor de Agua + Motor DC</em></p>
+<table>
+    <thead>
+        <tr>
+            <th>Componente</th>
+            <th>Conexión</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Sensor de Agua</td>
+            <td>
+                VCC a 5V del Arduino<br>
+                GND a GND del Arduino<br>
+                A0 a pin A0 del Arduino
+            </td>
+        </tr>
+        <tr>
+            <td>Transistor NPN</td>
+            <td>
+                Base a pin 9 del Arduino con una resistencia de 1kΩ<br>
+                Emisor a GND de la placa de pruebas<br>
+                Colector al terminal negativo del motor DC
+            </td>
+        </tr>
+        <tr>
+            <td>Mini Bomba de agua</td>
+            <td>
+                Terminal positivo a la salida positiva del módulo de alimentación suplementaria<br>
+                Terminal negativo al colector del transistor NPN
+            </td>
+        </tr>
+        <tr>
+            <td>Diodo</td>
+            <td>
+                Conectado en paralelo con el motor DC<br>
+                Cátodo (línea blanca) al terminal positivo del motor<br>
+                Ánodo al terminal negativo del motor
+            </td>
+        </tr>
+        <tr>
+            <td>Placa de Pruebas</td>
+            <td>
+                GND de la placa de pruebas a GND del Arduino
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3 id="video-sistema-de-bombeo-de-agua"><strong>Video Sistema de Bombeo de Agua</strong><a class="headerlink" href="#video-sistema-de-bombeo-de-agua" title="Permanent link">&para;</a></h3>
+<iframe width="688" height="388" src="https://www.youtube.com/embed/dDMQgqnKl3o?si=elo0HjHYuRieFUhe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr />
 <h3 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h3>
 <p>Valor de las resistencias:</p>
 <p><a href="https://uy.mouser.com/technical-resources/conversion-calculators/resistor-color-code-calculator">https://uy.mouser.com/technical-resources/conversion-calculators/resistor-color-code-calculator</a></p>
@@ -1073,7 +1168,7 @@ Tinkercad</p>
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 1, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 4, 2024</span>
     
   </small>
 </div>
