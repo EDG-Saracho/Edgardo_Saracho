@@ -26,7 +26,7 @@ Para presentar el proyecto, utilizo la metodología proyectual que Bruno Munari 
     <tr>
       <td><strong>2. Definición del problema</strong></td>
       <td><em>Descripción clara y precisa del problema, incluyendo sus limitaciones y alcance.</em></td>
-      <td></td>
+      <td>Las AG en Uruguay, provenientes del lavado de ropa, duchas y lavabos, se descargan sin tratamiento, contaminando aguas. Este desperdicio podría reutilizarse para riego y descargas no potables, pero se enfrenta a restricciones normativas domésticas.</td>
     </tr>
     <tr>
       <td><strong>3. Elementos del problema</strong></td>
