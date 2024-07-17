@@ -3,7 +3,13 @@ hide:
     - toc
 ---
 
-# Proyecto integrador
+# AGUAS GRISES
+
+En Uruguay, las aguas grises (AG) se definen como aquellas que provienen
+del lavado de alimentos, utensilios de cocina, manos, duchas y el lavado de
+superficies en general. Según la Unidad Reguladora de Servicios de Energía
+y Agua (URSEA), aproximadamente el 60% del agua que se consume a nivel
+doméstico termina siendo AG.
 
 ## Metodología proyectual
 
@@ -21,7 +27,7 @@ Para presentar el proyecto, utilizo la metodología proyectual que Bruno Munari 
     <tr>
       <td><strong>1. Problema</strong></td>
       <td><em>Identificación general del problema a resolver.</em></td>
-      <td>Aguas Grises</td>
+      <td>Aguas Grises (AG)</td>
     </tr>
     <tr>
       <td><strong>2. Definición del problema</strong></td>
@@ -75,26 +81,6 @@ Saracho Vaz, E. (2023.). Dispositivo para la recuperación y reutilización de a
     <tr>
       <td><strong>11. Solución final</strong></td>
       <td><em>Selección y desarrollo de la mejor solución basada en la evaluación.</em></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>12. Realización</strong></td>
-      <td><em>Producción y ejecución de la solución final.</em></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>13. Verificación</strong></td>
-      <td><em>Comprobación de que la solución final cumple con los requisitos y resuelve el problema.</em></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>14. Dibujos constructivos</strong></td>
-      <td><em>Creación de dibujos técnicos detallados para la construcción y fabricación.</em></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>15. Solución</strong></td>
-      <td><em>Implementación y seguimiento de la solución final en su contexto de uso.</em></td>
       <td></td>
     </tr>
   </tbody>
