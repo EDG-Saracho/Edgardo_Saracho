@@ -11,6 +11,8 @@ superficies en general. Según la Unidad Reguladora de Servicios de Energía
 y Agua (URSEA), aproximadamente el 60% del agua que se consume a nivel
 doméstico termina siendo AG.
 
+[Panel Miro - Proyecto](https://miro.com/app/board/uXjVKAVYfr8=/)
+
 ## Metodología proyectual
 
 Para presentar el proyecto, utilizo la metodología proyectual que Bruno Munari describe en su libro "Cómo nacen los objetos". Personalmente, considero esta metodología una forma ordenada y simple de resumir las etapas por las que he transitado en el desarrollo del proyecto. En la siguiente tabla, resumo las diferentes etapas.
