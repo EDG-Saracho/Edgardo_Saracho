@@ -362,6 +362,19 @@
     Ej 2 Por parejas
   </a>
   
+    <nav class="md-nav" aria-label="Ej 2 Por parejas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#conclusiones" class="md-nav__link">
+    Conclusiones
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -580,6 +593,19 @@
     Ej 2 Por parejas
   </a>
   
+    <nav class="md-nav" aria-label="Ej 2 Por parejas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#conclusiones" class="md-nav__link">
+    Conclusiones
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -607,18 +633,35 @@
 <p>El presente módulo tiene como objetivo profundizar en las capacidades de networking utilizando módulos ESP32, explorando sus posibilidades de conexión en redes de dispositivos IoT (Internet of Things). Durante este proceso, se trabajará con protocolos de comunicación como MQTT (Message Queuing Telemetry Transport), que permiten la transmisión eficiente de datos entre dispositivos en tiempo real. A través de la experimentación con módulos ESP32 físicos, los participantes aprenderán a configurar redes inalámbricas, establecer comunicaciones entre dispositivos y gestionar la transmisión de datos en diferentes aplicaciones IoT.</p>
 <h2 id="ej-1-comunicacion-serial">Ej 1 Comunicación Serial<a class="headerlink" href="#ej-1-comunicacion-serial" title="Permanent link">&para;</a></h2>
 <p>El proceso resultó ser bastante complejo, especialmente al intentar establecer las conexiones correctas. Realicé varias pruebas, explorando diferentes configuraciones, pero no logré una conexión adecuada hasta que, con la ayuda de un video de YouTube (<a href="https://youtu.be/9BxXnjHSH7s?si=HtVYPlPXvxEZL9zW">Ver video</a>link), conseguí un esquema funcional, aunque no perfecto. No fue sino hasta que nos reunimos con Franco, Victoria y Lucía que, trabajando en equipo, logramos definir correctamente el esquema de conexión.</p>
+<p>Primer intento de conexión
+<img alt="Prueba fallida" src="../../images/MT06/01_prueba_fallida.jpg" /></p>
+<p>Esquema de conexión exitoso
+<img alt="Esquema de conexión exitoso" src="../../images/MT06/02_ESQUEMA_DE_CONEXION.jpg" /></p>
 <blockquote>
 <p>Imagen del esquema realizado por Lucía Rossi</p>
 </blockquote>
 <p>El código proporcionado en Wokwi no funcionaba correctamente en la placa, y después de varios intentos no logré que funcionara. Por ello, decidí escribir un código propio para verificar que todo estuviera bien conectado. Se trata de un código simple: el LED permanece encendido de manera constante y se apaga al presionar el pulsador.</p>
+<p>Código que funcionó
+<img alt="Codigo propio" src="../../images/MT06/04_codigo.png" /></p>
+<p>Pulsador + Led
+<img alt="Prender y apagar" src="../../images/MT06/03_prender_apagar_led.gif" /></p>
 <h2 id="ej-2-por-parejas">Ej 2 Por parejas<a class="headerlink" href="#ej-2-por-parejas" title="Permanent link">&para;</a></h2>
-<p>Una vez logramos completar las conexiones, decidimos revisar nuevamente la clase grabada del jueves 19 de septiembre. Pasamos un buen rato intentando conectar Wokwi con la placa, hasta que finalmente pudimos replicar la demostración de la clase. El problema radicaba en que habíamos invertido los parámetros name_topic y send_topic. Superados estos inconvenientes, logramos hacer que la placa funcionara correctamente en red.
-Finalmente, conseguimos conectarnos a la placa de forma remota. En mi caso, realizamos el ejercicio junto a Franco. A continuación, comparto el enlace para controlar su placa, y en otro enlace, la mía.
-<a href="https://wokwi.com/projects/409767097293815809">https://wokwi.com/projects/409767097293815809</a></p>
-<p><a href="https://wokwi.com/projects/409681188014982145">https://wokwi.com/projects/409681188014982145</a></p>
-<p>Conclusiones
-El proceso de establecer conexiones sin un conocimiento previo sólido resultó ser mucho más complejo de lo esperado. La falta de experiencia inicial hizo que cada intento fuera un desafío, ya que me enfrenté a múltiples dificultades técnicas. Sin embargo, la clase de consulta del jueves fue un recurso clave para aclarar mis dudas y me proporcionó la orientación necesaria para avanzar en el proyecto.
+<p>Una vez logramos completar las conexiones, decidimos revisar nuevamente la clase grabada del jueves 19 de septiembre. Pasamos un buen rato intentando conectar Wokwi con la placa, hasta que finalmente pudimos replicar la demostración de la clase. El problema radicaba en que habíamos invertido los parámetros name_topic y send_topic. Superados estos inconvenientes, logramos hacer que la placa funcionara correctamente en red.</p>
+<p>Prueba en conjunto
+<img alt="Prueba en conjunto" src="../../images/MT06/05_Wokwi_Placa.gif" /></p>
+<p>Código de prueba solo
+<img alt="Codigo" src="../../images/MT06/07_codigo_wokwi_placa.png" /></p>
+<p><img alt="Prueba solo" src="../../images/MT06/06_Wokwi_Placa_solo.gif" /></p>
+<p>Finalmente, conseguimos conectarnos a la placa de forma remota. En mi caso, realizamos el ejercicio junto a Franco. A continuación, comparto el enlace para controlar su placa, y en otro enlace, la mía.</p>
+<p><a href="https://wokwi.com/projects/409767097293815809">Placa de Franco</a></p>
+<p><a href="https://wokwi.com/projects/409681188014982145">Placa de Edgardo</a></p>
+<h3 id="conclusiones">Conclusiones<a class="headerlink" href="#conclusiones" title="Permanent link">&para;</a></h3>
+<p>El proceso de establecer conexiones sin un conocimiento previo sólido resultó ser mucho más complejo de lo esperado. La falta de experiencia inicial hizo que cada intento fuera un desafío, ya que me enfrenté a múltiples dificultades técnicas. Sin embargo, la clase de consulta del jueves fue un recurso clave para aclarar mis dudas y me proporcionó la orientación necesaria para avanzar en el proyecto.
 Además, la colaboración fue esencial para lograr el éxito. De no haberme reunido un sábado en casa de Lucía para trabajar en equipo y resolver los problemas, no habría sido posible completar la tarea. Ese espacio de trabajo conjunto fue fundamental para entender las complicaciones y, finalmente, cumplir con la entrega a tiempo.</p>
+<p><img alt="Foto Equipo" src="../../images/MT06/08_conclusiones_foto_equipo.jpg" /></p>
+<blockquote>
+<p>Sábado 21 de setiembre. Franco, Victoria, Lucía y Edgardo</p>
+</blockquote>
                 
                   
                     
