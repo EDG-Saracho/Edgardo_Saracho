@@ -384,8 +384,22 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#descargar-codigo-arduino" class="md-nav__link">
+    ⬇︎ Descargar Código Arduino
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#4-sensor-de-nivel-de-agua-led-esp32" class="md-nav__link">
     4. Sensor de nivel de agua + LED (ESP32)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#descargar-codigo-arduino_1" class="md-nav__link">
+    ⬇︎ Descargar Código Arduino
   </a>
   
 </li>
@@ -623,8 +637,22 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#descargar-codigo-arduino" class="md-nav__link">
+    ⬇︎ Descargar Código Arduino
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#4-sensor-de-nivel-de-agua-led-esp32" class="md-nav__link">
     4. Sensor de nivel de agua + LED (ESP32)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#descargar-codigo-arduino_1" class="md-nav__link">
+    ⬇︎ Descargar Código Arduino
   </a>
   
 </li>
@@ -700,6 +728,8 @@
 </table>
 
 <p>Desarrollo: La comunicación entre el joystick y la pantalla gráfica se realiza enviando los valores de los ejes X e Y del joystick al Arduino, que los transmite a Processing para controlar el movimiento del círculo en la pantalla.</p>
+<p><strong><a href="../Descargas/MT07_DESCARGAS/conexion_joystick">⬇︎ Descargar Código Arduino</a></strong>
+ <strong><a href="../../Descargas/MT07_DESCARGAS/ventana_circulo_joystick.pde">⬇︎ Descargar Código Processing</a></strong></p>
 <hr />
 <h2 id="2-control-de-led-desde-una-pagina-web-esp32">2. Control de LED desde una página web (ESP32)<a class="headerlink" href="#2-control-de-led-desde-una-pagina-web-esp32" title="Permanent link">&para;</a></h2>
 <p>En este punto, se busca controlar el encendido y apagado de un LED a través de una interfaz web servida por la ESP32. El usuario podrá interactuar con un botón en la página web para cambiar el estado del LED.</p>
@@ -727,9 +757,11 @@
 </table>
 
 <p>Desarrollo: Se configura la ESP32 para actuar como servidor web, presentando una página con un botón que envía comandos a la ESP32 para controlar el estado del LED.</p>
+<p><strong><a href="../Descargas/MT07_DESCARGAS/encendido_led_web">⬇︎ Descargar Código Arduino</a></strong></p>
 <hr />
 <h2 id="3-sensor-de-distancia-led-esp32">3. Sensor de distancia + LED (ESP32)<a class="headerlink" href="#3-sensor-de-distancia-led-esp32" title="Permanent link">&para;</a></h2>
 <p>El objetivo es mostrar los datos obtenidos por un sensor de distancia (HC-SR04) en una página web. Adicionalmente, se puede activar o desactivar un LED dependiendo de la distancia medida.</p>
+<p>Tomé como base este <a href="https://wokwi.com/projects/343118872517280339">Código wokwi</a>. la verdad que me costómucho hacer que funcionara, hasta que logre acercarme al objetivo de que mostrara una distancia en pantalla. </p>
 <p>Esquema de conexión:</p>
 <table style="width: 100%;">
   <thead>
@@ -769,7 +801,7 @@
 </table>
 
 <p>Desarrollo: La ESP32 lee los datos del sensor de distancia y los presenta en una interfaz web. Se puede encender o apagar el LED cuando la distancia detectada supera o cae por debajo de un umbral establecido.</p>
-<hr />
+<h2 id="descargar-codigo-arduino"><strong><a href="../Descargas/MT07_DESCARGAS/Sensor_distancia">⬇︎ Descargar Código Arduino</a></strong><a class="headerlink" href="#descargar-codigo-arduino" title="Permanent link">&para;</a></h2>
 <h2 id="4-sensor-de-nivel-de-agua-led-esp32">4. Sensor de nivel de agua + LED (ESP32)<a class="headerlink" href="#4-sensor-de-nivel-de-agua-led-esp32" title="Permanent link">&para;</a></h2>
 <p>Este último ejercicio consiste en visualizar el nivel de agua en un contenedor y reflejar dicha información en una página web. El sistema también incluye un LED que puede encenderse o apagarse en función del nivel de agua medido.</p>
 <p>Esquema de conexión:</p>
@@ -805,6 +837,8 @@
   </tbody>
 </table>
 
+<p>Desarrollo: La ESP32 recibe los datos del sensor de nivel de agua y los muestra en una página web. Se puede configurar un límite para el nivel de agua, que al superarse encenderá o apagará el LED.</p>
+<h2 id="descargar-codigo-arduino_1"><strong><a href="../Descargas/MT07_DESCARGAS/niveldeagua_esp32">⬇︎ Descargar Código Arduino</a></strong><a class="headerlink" href="#descargar-codigo-arduino_1" title="Permanent link">&para;</a></h2>
 <h2 id="video">Video<a class="headerlink" href="#video" title="Permanent link">&para;</a></h2>
 <p>En este video se muestran las cuatro experiencias:</p>
 <iframe width="688" height="388" src="https://www.youtube.com/embed/BqAx07Z72MQ?si=9swNo9yurRLS2bQN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
