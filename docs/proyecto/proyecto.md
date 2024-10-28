@@ -65,7 +65,12 @@ Saracho Vaz, E. (2023.). Dispositivo para la recuperación y reutilización de a
     <tr>
       <td><strong>7. Materiales y tecnologías</strong></td>
       <td><em>Selección de materiales y tecnologías adecuadas para las posibles soluciones.</em></td>
-      <td></td>
+      <td>Impresión 3D de un filtro de AG 
+Sistema inteligente de sensores, bomba de agua y placa arduino
+Combinación de biofiltros y filtros físicos (grava y totora)
+Caños sanitarios de PVC
+estructura que sostenga antihumedad, cortada con router
+</td>
     </tr>
     <tr>
       <td><strong>8. Experimentación</strong></td>
