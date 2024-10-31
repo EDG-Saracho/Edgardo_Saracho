@@ -75,17 +75,16 @@ estructura que sostenga antihumedad, cortada con router
     <tr>
       <td><strong>8. Experimentación</strong></td>
       <td><em>Pruebas y ensayos para verificar la viabilidad de las ideas propuestas.</em></td>
-      <td></td>
+      <td>1. Componentes electrónicos <br>
+2. estructura de caños / almacenamiento de agua<br>
+3. filtro impreso en 3D<br>
+4. estructura impresa que sostenga la grava + planta filtrante<br>
+5. estructura que sostenga</td>
     </tr>
     <tr>
       <td><strong>9. Modelos y prototipos</strong></td>
       <td><em>Creación de modelos o prototipos para evaluar las soluciones en un contexto real.</em></td>
-      <td> 1. Componentes electrónicos
-2. estructura de caños / almacenamiento de agua
-3. filtro impreso en 3D
-4. estructura impresa que sostenga la grava + planta filtrante
-5. estructura que sostenga
-</td>
+      <td></td>
     </tr>
     <tr>
       <td><strong>10. Evaluación</strong></td>
