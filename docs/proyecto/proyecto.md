@@ -84,7 +84,7 @@ estructura que sostenga antihumedad, cortada con router
     <tr>
       <td><strong>9. Modelos y prototipos</strong></td>
       <td><em>Creación de modelos o prototipos para evaluar las soluciones en un contexto real.</em></td>
-      <td>![BOCETO PROTOTIPO](../images/PI_IMG/diseño01.png)</td>
+      <td><img> https://github.com/EDG-Saracho/Edgardo_Saracho/blob/main/docs/images/PI_IMG/dise%C3%B1o01.png</img></td>
     </tr>
     <tr>
       <td><strong>10. Evaluación</strong></td>
