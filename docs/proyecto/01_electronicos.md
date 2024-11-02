@@ -1,5 +1,4 @@
- # Proyecto integrador
- ## Componentes Electrónicos
+ 
 
 ### **Introducción**
 
