@@ -21,7 +21,7 @@ Procedí a adquirir los materiales faltantes y enfrenté algunos inconvenientes,
 
 ### **Prueba de Viabilidad de las Conexiones**
 
-Antes de emplear la bomba de agua adquirida, decidí realizar una prueba de viabilidad utilizando una lámpara conectada a la red eléctrica. Este ensayo emplea el mismo esquema de conexión y permite verificar la funcionalidad del circuito sin riesgo de dañar la bomba. Esta medida de precaución garantiza que las conexiones estén adecuadamente configuradas antes de proceder con la operación del sistema completo.
+Antes de usar la bomba de agua nueva, decidí realizar una prueba de viabilidad utilizando una lámpara conectada a la red eléctrica. Este ensayo utiliza el mismo esquema de conexión y permite verificar la funcionalidad del circuito sin riesgo de dañar la bomba. Esta medida de precaución garantiza que las conexiones estén bien configuradas antes de realizar el prototipo.
 
 ![Prueba con luz](../images/PI_IMG/electronicos/03_prueba.webp)
 
