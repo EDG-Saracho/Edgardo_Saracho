@@ -31,6 +31,7 @@ nav:
     - MI03: innovacion/mi03.md
   - Proyecto Integrador:
     - Proyecto Aguas Grises: proyecto/proyecto.md
+    - 01 Componentes Electrónicos: proyecto/01_electronicos.md
 
 
 extra:
