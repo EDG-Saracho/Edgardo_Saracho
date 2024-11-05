@@ -25,4 +25,16 @@ Antes de usar la bomba de agua nueva, decidí realizar una prueba de viabilidad 
 
 ![Prueba con luz](../images/PI_IMG/electronicos/03_prueba.webp)
 
+----------
 
+### **Ensayo con Lámpara de Luz**
+
+Finalmente, tras varios intentos, logré conseguir en el mercado local un relé de 6 pines que me permitió conectarlo de acuerdo con el esquema original. Realicé una prueba utilizando una lámpara para verificar el funcionamiento del circuito.
+
+![rele 6 pines](<../images/PI_IMG/electronicos/relé 6 pines.jpg>)
+
+Aspectos pendientes incluyen definir cómo se alimentará la placa una vez completado el prototipo y, posiblemente, agregar en el código un retraso (delay) en el apagado para evitar un corte abrupto de energía.
+
+![Ensayo luz](../images/PI_IMG/electronicos/ensayo_luz.gif)
+
+----------
