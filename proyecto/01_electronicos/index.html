@@ -563,11 +563,24 @@
     Prueba de Viabilidad de las Conexiones
   </a>
   
+    <nav class="md-nav" aria-label="Prueba de Viabilidad de las Conexiones">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ensayo-con-lampara-de-luz" class="md-nav__link">
+    Ensayo con Lámpara de Luz
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
-  <a href="#ensayo-con-lampara-de-luz" class="md-nav__link">
-    Ensayo con Lámpara de Luz
+  <a href="#bomba-de-agua" class="md-nav__link">
+    Bomba de Agua
   </a>
   
 </li>
@@ -631,11 +644,24 @@
     Prueba de Viabilidad de las Conexiones
   </a>
   
+    <nav class="md-nav" aria-label="Prueba de Viabilidad de las Conexiones">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ensayo-con-lampara-de-luz" class="md-nav__link">
+    Ensayo con Lámpara de Luz
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
-  <a href="#ensayo-con-lampara-de-luz" class="md-nav__link">
-    Ensayo con Lámpara de Luz
+  <a href="#bomba-de-agua" class="md-nav__link">
+    Bomba de Agua
   </a>
   
 </li>
@@ -662,25 +688,31 @@
                 
                   <h1>01 Componentes Electrónicos</h1>
                 
-                <h3 id="introduccion"><strong>Introducción</strong><a class="headerlink" href="#introduccion" title="Permanent link">&para;</a></h3>
+                <h2 id="introduccion"><strong>Introducción</strong><a class="headerlink" href="#introduccion" title="Permanent link">&para;</a></h2>
 <p>El desafío principal en el desarrollo de mi prototipo fue la automatización del proceso de almacenamiento y distribución de agua. En versiones previas, este proceso se realizaba de forma mecánica. Sin embargo, en este proyecto, la incorporación de componentes electrónicos permitirá automatizar el almacenamiento de agua y su distribución, con posibles aplicaciones como el llenado de cisternas o un sistema de riego por goteo, según las características de la vivienda.</p>
-<h3 id="esquema-de-funcionamiento"><strong>Esquema de Funcionamiento</strong><a class="headerlink" href="#esquema-de-funcionamiento" title="Permanent link">&para;</a></h3>
+<h2 id="esquema-de-funcionamiento"><strong>Esquema de Funcionamiento</strong><a class="headerlink" href="#esquema-de-funcionamiento" title="Permanent link">&para;</a></h2>
 <p>Durante la etapa de investigación, analicé diversas estrategias para llevar a cabo esta automatización y determiné la necesidad de una bomba de agua que fuera económica, compacta y lo suficientemente potente para garantizar la distribución eficiente del agua. Además, identifiqué la importancia de un sistema de control para el encendido y apagado automático, para lo cual un sensor de flotador resultó ser una opción viable. Realicé consultas a través de ChatGPT para obtener información sobre cómo construir el circuito, aunque estas consultas no resultaron suficientes para aclarar completamente el proceso.</p>
-<h3 id="conexion-y-diseno-del-circuito"><strong>Conexión y Diseño del Circuito</strong><a class="headerlink" href="#conexion-y-diseno-del-circuito" title="Permanent link">&para;</a></h3>
+<h2 id="conexion-y-diseno-del-circuito"><strong>Conexión y Diseño del Circuito</strong><a class="headerlink" href="#conexion-y-diseno-del-circuito" title="Permanent link">&para;</a></h2>
 <p>En una sesión de consulta con Eduardo Chamorro, arquitecto e investigador que brinda tutorías, me ayudó a definir el esquema de conexión y determinar los componentes necesarios. Eduardo proporcionó un esquema inicial que sirvió de base para el desarrollo del proyecto.</p>
 <p><img alt="Diseño del circuito" src="../../images/PI_IMG/electronicos/dise%C3%B1o_circuito.jpg" /></p>
 <p>Procedí a adquirir los materiales faltantes y enfrenté algunos inconvenientes, en particular con la obtención del relé mostrado en el esquema. Utilicé un relé de 5 pines incluido en mi kit de Arduino, lo que generó dificultades al integrarlo en el esquema propuesto por Eduardo. Gracias a la colaboración de Santi Fuentemilla, con quien intercambié tutoriales e información, logramos investigar alternativas; sin embargo, persistía la incertidumbre respecto al correcto funcionamiento del relé en este contexto.</p>
 <p><img alt="Relé alternativo" src="../../images/PI_IMG/electronicos/rele_alternativo.jpg" /></p>
-<h3 id="prueba-de-viabilidad-de-las-conexiones"><strong>Prueba de Viabilidad de las Conexiones</strong><a class="headerlink" href="#prueba-de-viabilidad-de-las-conexiones" title="Permanent link">&para;</a></h3>
+<h2 id="prueba-de-viabilidad-de-las-conexiones"><strong>Prueba de Viabilidad de las Conexiones</strong><a class="headerlink" href="#prueba-de-viabilidad-de-las-conexiones" title="Permanent link">&para;</a></h2>
 <p>Antes de usar la bomba de agua nueva, decidí realizar una prueba de viabilidad utilizando una lámpara conectada a la red eléctrica. Este ensayo utiliza el mismo esquema de conexión y permite verificar la funcionalidad del circuito sin riesgo de dañar la bomba. Esta medida de precaución garantiza que las conexiones estén bien configuradas antes de realizar el prototipo.</p>
 <p><img alt="Prueba con luz" src="../../images/PI_IMG/electronicos/03_prueba.webp" /></p>
-<hr />
 <h3 id="ensayo-con-lampara-de-luz"><strong>Ensayo con Lámpara de Luz</strong><a class="headerlink" href="#ensayo-con-lampara-de-luz" title="Permanent link">&para;</a></h3>
 <p>Finalmente, tras varios intentos, logré conseguir en el mercado local un relé de 6 pines que me permitió conectarlo de acuerdo con el esquema original. Realicé una prueba utilizando una lámpara para verificar el funcionamiento del circuito.</p>
 <p><img alt="rele 6 pines" src="../../images/PI_IMG/electronicos/rel%C3%A9%206%20pines.jpg" /></p>
 <p>Aspectos pendientes incluyen definir cómo se alimentará la placa una vez completado el prototipo y, posiblemente, agregar en el código un retraso (delay) en el apagado para evitar un corte abrupto de energía.</p>
 <p><img alt="Ensayo luz" src="../../images/PI_IMG/electronicos/ensayo_luz.gif" /></p>
 <hr />
+<h2 id="bomba-de-agua"><strong>Bomba de Agua</strong><a class="headerlink" href="#bomba-de-agua" title="Permanent link">&para;</a></h2>
+<p>Consegí una bomba de agua de 25W, ideal para fuentes, estanques, peceras e hidroponía. Su tamaño y potencia resultan adecuados para los requerimientos de este proyecto, permitiendo una distribución eficiente de agua.</p>
+<p><img alt="Bomba" src="../../images/PI_IMG/electronicos/bomba.jpg" /></p>
+<p>La intención es colocar la bomba dentro de uno de los tubos del sistema, aprovechando sus dimensiones que permiten un ajuste firme y seguro dentro del tubo, sin necesidad de adicionales para su fijación. Sin embargo, un desafío será cortar el cable de la bomba para realizar las conexiones electrónicas necesarias, garantizando tanto la seguridad como la funcionalidad del dispositivo en el prototipo.</p>
+<p><img alt="Bomba y caños" src="../../images/PI_IMG/electronicos/bomba_ca%C3%B1o.jpg" /></p>
+<p>En la imagen adjunta, se muestra una prueba preliminar de funcionamiento. Coloqué la bomba en un balde con agua no potable y conecté una manguera de aproximadamente 2 metros de longitud, utilizándola a potencia media. El sistema funcionó perfectamente, manteniendo un flujo constante y estable de agua, lo que confirma la viabilidad de la bomba para este proyecto.</p>
+<p><img alt="Prueba de la bomba" src="../../images/PI_IMG/electronicos/prueba_bomba.gif" /></p>
                 
                   
                     
@@ -689,7 +721,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 5, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 6, 2024</span>
     
   </small>
 </div>
