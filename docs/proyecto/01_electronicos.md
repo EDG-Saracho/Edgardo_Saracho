@@ -1,14 +1,14 @@
  
 
-### **Introducción**
+## **Introducción**
 
 El desafío principal en el desarrollo de mi prototipo fue la automatización del proceso de almacenamiento y distribución de agua. En versiones previas, este proceso se realizaba de forma mecánica. Sin embargo, en este proyecto, la incorporación de componentes electrónicos permitirá automatizar el almacenamiento de agua y su distribución, con posibles aplicaciones como el llenado de cisternas o un sistema de riego por goteo, según las características de la vivienda.
 
-### **Esquema de Funcionamiento**
+## **Esquema de Funcionamiento**
 
 Durante la etapa de investigación, analicé diversas estrategias para llevar a cabo esta automatización y determiné la necesidad de una bomba de agua que fuera económica, compacta y lo suficientemente potente para garantizar la distribución eficiente del agua. Además, identifiqué la importancia de un sistema de control para el encendido y apagado automático, para lo cual un sensor de flotador resultó ser una opción viable. Realicé consultas a través de ChatGPT para obtener información sobre cómo construir el circuito, aunque estas consultas no resultaron suficientes para aclarar completamente el proceso.
 
-### **Conexión y Diseño del Circuito**
+## **Conexión y Diseño del Circuito**
 
 En una sesión de consulta con Eduardo Chamorro, arquitecto e investigador que brinda tutorías, me ayudó a definir el esquema de conexión y determinar los componentes necesarios. Eduardo proporcionó un esquema inicial que sirvió de base para el desarrollo del proyecto.
 
@@ -19,13 +19,12 @@ Procedí a adquirir los materiales faltantes y enfrenté algunos inconvenientes,
 ![Relé alternativo](../images/PI_IMG/electronicos/rele_alternativo.jpg)
 
 
-### **Prueba de Viabilidad de las Conexiones**
+## **Prueba de Viabilidad de las Conexiones**
 
 Antes de usar la bomba de agua nueva, decidí realizar una prueba de viabilidad utilizando una lámpara conectada a la red eléctrica. Este ensayo utiliza el mismo esquema de conexión y permite verificar la funcionalidad del circuito sin riesgo de dañar la bomba. Esta medida de precaución garantiza que las conexiones estén bien configuradas antes de realizar el prototipo.
 
 ![Prueba con luz](../images/PI_IMG/electronicos/03_prueba.webp)
 
-----------
 
 ### **Ensayo con Lámpara de Luz**
 
@@ -38,3 +37,17 @@ Aspectos pendientes incluyen definir cómo se alimentará la placa una vez compl
 ![Ensayo luz](../images/PI_IMG/electronicos/ensayo_luz.gif)
 
 ----------
+
+## **Bomba de Agua**
+
+Consegí una bomba de agua de 25W, ideal para fuentes, estanques, peceras e hidroponía. Su tamaño y potencia resultan adecuados para los requerimientos de este proyecto, permitiendo una distribución eficiente de agua.
+
+![Bomba](../images/PI_IMG/electronicos/bomba.jpg)
+
+La intención es colocar la bomba dentro de uno de los tubos del sistema, aprovechando sus dimensiones que permiten un ajuste firme y seguro dentro del tubo, sin necesidad de adicionales para su fijación. Sin embargo, un desafío será cortar el cable de la bomba para realizar las conexiones electrónicas necesarias, garantizando tanto la seguridad como la funcionalidad del dispositivo en el prototipo.
+
+![Bomba y caños](../images/PI_IMG/electronicos/bomba_caño.jpg)
+
+En la imagen adjunta, se muestra una prueba preliminar de funcionamiento. Coloqué la bomba en un balde con agua no potable y conecté una manguera de aproximadamente 2 metros de longitud, utilizándola a potencia media. El sistema funcionó perfectamente, manteniendo un flujo constante y estable de agua, lo que confirma la viabilidad de la bomba para este proyecto.
+
+![Prueba de la bomba](../images/PI_IMG/electronicos/prueba_bomba.gif)
