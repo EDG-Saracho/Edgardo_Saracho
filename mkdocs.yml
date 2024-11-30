@@ -31,8 +31,8 @@ nav:
     - MI03: innovacion/mi03.md
   - Proyecto Integrador:
     - Proyecto Aguas Grises: proyecto/proyecto.md
-      - 01 Componentes Electrónicos: proyecto/01_electronicos.md
-      - 02 Modelo de Control: proyecto/02_Modelo_de_control.md
+    - 01 Componentes Electrónicos: proyecto/01_electronicos.md
+    - 02 Modelo de Control: proyecto/02_Modelo_de_control.md
      
       
 
