@@ -7,8 +7,8 @@ Desarrollé un modelo de control para uno de los módulos del producto. Para ell
 ## Función simbólica
 Al realizar un mapeo en el barrio Paso de la Arena, observé una variedad de sistemas de desagüe de aguas grises presentes en las viviendas de la zona. Estos desagües están construidos con caños cuyos diámetros oscilan entre 40 mm y 110 mm. Algunos desembocan directamente en las cunetas, mientras que otros están conectados mediante zanjas.
 
-**Desagüe de AG**!
-[Desagüe de AG*](../images/PI_IMG/fotos_02_modelo_de_control/Desague_AG.jpg)
+**Desagüe de AG**
+![Desagüe de AG*](../images/PI_IMG/fotos_02_modelo_de_control/Desague_AG.jpg)
 > Fotografía 1 Barrio Las torres, mayo 2020. Elaboración propia.
 
 De acuerdo con la definición de Lobach, donde la función simbólica se entiende como la capacidad de un objeto para representar y conectar significados culturales, opté por utilizar caños como como material principal. Esta elección no solo busca alinearse con los materiales conocidos y accesibles para las personas potencialmente usuarias, sino también fomentar una mayor cercanía con sus contextos cotidianos.
