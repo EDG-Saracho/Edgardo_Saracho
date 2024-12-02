@@ -6,6 +6,7 @@ hide:
 # AGUAS GRISES
 
 ## Introducción al Proyecto
+
 Este proyecto surge de un enfoque de diseño abierto, iniciado como mi trabajo final de carrera en 2023, el cual fue presentado y documentado con el objetivo de ser replicable. La problemática abordada se encuentra en los barrios periféricos de Montevideo, donde muchos hogares carecen de conexión al sistema de saneamiento, enfrentándose a riesgos sanitarios y ambientales por el manejo inadecuado de aguas grises (AG).
 
 Las aguas grises (AG) son aquellas provenientes de actividades domésticas como el lavado de alimentos, utensilios de cocina, manos, duchas y superficies en general. Representan aproximadamente el 60% del agua consumida en los hogares, según datos de la Unidad Reguladora de Servicios de Energía y Agua (URSEA). Estas aguas, al no contener residuos de inodoros, tienen un potencial significativo para ser tratadas y reutilizadas, lo que contribuye a una gestión más eficiente de los recursos hídricos y a la reducción del impacto ambiental.
@@ -16,9 +17,9 @@ Para abordar esta problemática, se implementaron tecnologías como la electrón
 El proyecto busca no solo resolver un problema técnico, sino también generar un modelo inclusivo y replicable que fomente la innovación local, el cuidado del medioambiente y la mejora en la calidad de vida.
 
 
-[Panel Miro - Proyecto](https://miro.com/app/board/uXjVKAVYfr8=/)
+**[Panel Miro - Proyecto](https://miro.com/app/board/uXjVKAVYfr8=/)**
 
-[Tabla de producción](https://miro.com/app/board/uXjVKlm1tIk=/)
+**[Tabla de producción](https://miro.com/app/board/uXjVKlm1tIk=/)**
 
 ## Metodología proyectual
 
