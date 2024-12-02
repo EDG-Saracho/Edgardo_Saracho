@@ -5,11 +5,16 @@ hide:
 
 # AGUAS GRISES
 
-En Uruguay, las aguas grises (AG) se definen como aquellas que provienen
-del lavado de alimentos, utensilios de cocina, manos, duchas y el lavado de
-superficies en general. Según la Unidad Reguladora de Servicios de Energía
-y Agua (URSEA), aproximadamente el 60% del agua que se consume a nivel
-doméstico termina siendo AG.
+## Introducción al Proyecto
+Este proyecto surge de un enfoque de diseño abierto, iniciado como mi trabajo final de carrera en 2023, el cual fue presentado y documentado con el objetivo de ser replicable. La problemática abordada se encuentra en los barrios periféricos de Montevideo, donde muchos hogares carecen de conexión al sistema de saneamiento, enfrentándose a riesgos sanitarios y ambientales por el manejo inadecuado de aguas grises (AG).
+
+Las aguas grises (AG) son aquellas provenientes de actividades domésticas como el lavado de alimentos, utensilios de cocina, manos, duchas y superficies en general. Representan aproximadamente el 60% del agua consumida en los hogares, según datos de la Unidad Reguladora de Servicios de Energía y Agua (URSEA). Estas aguas, al no contener residuos de inodoros, tienen un potencial significativo para ser tratadas y reutilizadas, lo que contribuye a una gestión más eficiente de los recursos hídricos y a la reducción del impacto ambiental.
+
+Siendo parte de esta comunidad, por residir en la periferia de Montevideo, diseñé el proyecto con un entendimiento directo de las necesidades locales y los desafíos específicos que enfrentan las personas en esta situación. Además, utilicé la metodología de first person perspective, que me permitió pensar como usuario, poniendo el foco en la experiencia y las necesidades prácticas, lo que enriqueció el proceso de diseño.
+
+Para abordar esta problemática, se implementaron tecnologías como la electrónica, la impresión 3D y el ruteado de placas de OSB, combinando fabricación digital con materiales locales y económicos. Este enfoque distribuye la capacidad de producción a nivel comunitario y prioriza la sostenibilidad, promoviendo el ahorro de recursos hídricos y la reducción de impactos ambientales.
+El proyecto busca no solo resolver un problema técnico, sino también generar un modelo inclusivo y replicable que fomente la innovación local, el cuidado del medioambiente y la mejora en la calidad de vida.
+
 
 [Panel Miro - Proyecto](https://miro.com/app/board/uXjVKAVYfr8=/)
 
