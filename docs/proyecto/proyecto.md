@@ -82,10 +82,12 @@ estructura que sostenga antihumedad, cortada con router
       <td><strong>8. Experimentación</strong></td>
       <td><em>Pruebas y ensayos para verificar la viabilidad de las ideas propuestas.</em></td>
       <td>1. Componentes electrónicos <br>
-2. estructura de caños / almacenamiento de agua<br>
-3. filtro impreso en 3D<br>
-4. estructura impresa que sostenga la grava + planta filtrante<br>
-5. estructura que sostenga</td>
+2. Primer modelo de control<br>
+3. Piezas impresas 3D<br>
+4. Piezas cortadas en CNC<br>
+5. Ensamblaje<br>
+6. Prototipo</td>
+
     </tr>
     <tr>
       <td><strong>9. Modelos y prototipos</strong></td>
@@ -104,4 +106,25 @@ estructura que sostenga antihumedad, cortada con router
     </tr>
   </tbody>
 </table>
-```
+
+
+## Análisis de antecedentes
+
+El análisis de antecedentes revela la existencia de soluciones destinadas a la reutilización de aguas grises (AG), aunque aún persiste un campo sin explorar en el desarrollo de productos especializados para esta práctica. Esto representa una oportunidad para adaptar las tecnologías existentes al contexto social y económico de las personas usuarias, mejorando su aplicabilidad y accesibilidad. Entre los dispositivos evaluados se encuentran sistemas de tratamiento y almacenamiento, riego, y descarga para inodoros, permitiendo identificar ventajas y desventajas en función de sus características y necesidades específicas.
+
+Uno de los enfoques más relevantes para la reutilización de aguas grises se centra en el **tratamiento del agua proveniente de lavadoras**, una de las principales fuentes de aguas jabonosas en el hogar. Estos sistemas suelen incluir depósitos, decantadores y filtros compuestos por capas de grava, arena y materiales más avanzados como carbón activado. Aunque producen agua de calidad adecuada para riego, su implementación requiere planificación para manejar excedentes y asociarse con otros métodos, como el _mulching_. Además, se destaca la importancia del uso de productos biodegradables para maximizar su eficacia.
+
+Entre los dispositivos comerciales, **Aqua2use** sobresale como un sistema automatizado que filtra y reutiliza aguas grises provenientes de lavabos y lavadoras. Este sistema, equipado con una bomba de agua y filtros reutilizables, se caracteriza por su facilidad de instalación y bajo mantenimiento, aunque este último puede resultar insuficiente para algunos usuarios. Fabricado con materiales respetuosos con el medio ambiente, Aqua2use ofrece una solución eficiente para el riego exterior, aunque requiere almacenamiento complementario para optimizar su funcionalidad.
+
+Otro ejemplo destacado es el diseño de **jardines de lluvia**, que aprovechan el agua pluvial mediante sistemas filtrantes de plantas y piedras. Este enfoque no solo reduce la carga contaminante en sistemas de saneamiento, sino que también mitiga el riesgo de inundaciones urbanas. Iniciativas como "Medidas de resiliencia para Montevideo" demuestran su potencial, complementandose con infraestructuras como veredas verdes para aumentar la permeabilidad urbana. Finalmente, propuestas como **Flowing Futures**, que transforman aguas grises en recursos para riego mediante lavabos móviles y materiales reutilizados, reflejan el enfoque innovador necesario para la gestión eficiente de los recursos hídricos.
+
+La investigación cuenta con un análisis más extenso, en el que los datos se han clasificado en categorías de elaboración propia. Estas se basan en la ubicación del decantador y su proximidad a la fuente de las aguas grises: dispositivos de tratamiento intra-hogares, dispositivos de tratamiento al aire libre y dispositivos de recuperación de aguas pluviales. Además, cada categoría incluye subcategorías según su carácter DIY o industrializado, como se detalla en la imagen . Esta organización permite un entendimiento más claro de las soluciones existentes y facilita la identificación de oportunidades de mejora en el diseño y aplicación de estos sistemas.
+
+![Antecedentes](../images/PI_IMG/antecedentes/antecedentes.png)
+
+
+### Mapa del universo 
+![Mapa del universo](../images/PI_IMG/antecedentes/mapa_del_universo.png)
+
+Creé un Mapa del Universo que organiza una selección de productos explorados, utilizando dos ejes principales. El eje vertical clasifica los productos según su forma de producción, distinguiendo entre métodos artesanales e industriales, mientras que el eje horizontal los categoriza según la forma en que reutilizan las aguas grises (AG), ya sea de manera directa o indirecta.
+Esta representación gráfica permitió identificar una oportunidad de desarrollo para un producto innovador. A partir de este análisis, seleccioné cualidades destacadas de algunos de los productos estudiados y les añadí un valor agregado ausente en las soluciones existentes. Entre estos diferenciales, se incluye la implementación de tecnologías de fabricación digital y la posibilidad de personalización, lo que amplía su utilidad y adaptabilidad a distintos contextos y necesidades.
