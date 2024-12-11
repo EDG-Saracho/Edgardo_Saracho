@@ -134,7 +134,25 @@ Esta representación gráfica permitió identificar una oportunidad de desarroll
 
 Se propone un dispositivo filtrante biológico diseñado para las conexiones de desagüe de lavadoras, con el objetivo de clarificar y filtrar las aguas grises (AG). El dispositivo integra capas de materiales filtrantes como grava, algodón o guata, junto con una barrera fabricada mediante impresión 3D. Además, incorpora plantas acuáticas que oxigenan el agua y absorben nutrientes, creando un sistema de filtración natural y eficiente.
 
+### Render
+
 ![Creatividad](../images/PI_IMG/antecedentes/creatividad_.png)
+
+### Funcionamiento
+
+
+
+**Parte A**
+
+Este dispositivo se compone de capas filtrantes de grava, algodón y una barrera impresa en 3D, incorporando además plantas acuáticas que absorben nutrientes y oxigenan el agua. Cuenta también con una boquilla de entrada adaptada al caño de desagüe de la lavadora.
+
+
+**Parte B**
+
+Cuenta con una bomba de agua que se activa mediante la programación de un placa arduino conectada a un sensor de nivel de agua.
+
+![Corte prototipo](../images/PI_IMG/PROTOTIPO_CORTE.png)
+
 
 El diseño destaca por ser compacto y modular, permitiendo su instalación en espacios reducidos. Está fabricado con materiales resistentes al agua y la corrosión, asegurando una alta durabilidad. La implementación del dispositivo requiere un espacio adyacente a la lavadora para su colocación, un sistema de desagües separativos que evite conexiones a fosas sépticas y la disponibilidad de sistemas de bombeo, ya sean manuales o eléctricos, para el almacenamiento y la distribución del agua filtrada.
 
