@@ -44,8 +44,10 @@ Dado el tiempo limitado en el laboratorio, preparamos los archivos utilizando el
 
 ## Resultado
 
+### Grupo A
 ![Grupo A](<../images/PI_IMG/impresiones 3D/grupo_A_impresas.png>)
 
+### Grupo B
 ![Grupo B](<../images/PI_IMG/impresiones 3D/grupo_B_impresas.png>)
 
 ![pieza con placa](<../images/PI_IMG/impresiones 3D/pieza_con_plca.png>)
