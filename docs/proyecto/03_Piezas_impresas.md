@@ -19,21 +19,26 @@ Estas piezas están diseñadas para ser manipulables, permitir el paso de aire, 
 ### Grupo B
 
   ![Grupo B](<../images/PI_IMG/impresiones 3D/Prototipo_PRESENTACIÓN_PIEZAS_B.png>)
-  
+
 El grupo B consta de cuatro piezas:  
 - **Agarre**: Facilita la manipulación y se incrusta en el extremo de un caño.  
 - **Disco de barrera (filtro)** y **disco de presión**: Se ensamblan al disco de agarre mediante una varilla con tuercas, formando un sistema que se inserta dentro del caño.  
 - **Conector de entrada**: Pieza que se fija al extremo del tubo y permite conectar un tubo flexible de lavadora.  
 
 ## Retos en el Modelado  
-El diseño inicial presentaba problemas de parametrización y detalles poco prolijos. Durante una visita a Durazno, gracias al docente Joaquín, se lograron importantes mejoras. Su guía fue clave para optimizar los archivos, mejorar la funcionalidad de las piezas y simplificar el diseño formal del dispositivo. También compartió valiosos consejos sobre flujos de trabajo que aumentaron la eficiencia al usar **Fusion 360**.  
+El diseño inicial presentaba problemas de parametrización y detalles poco prolijos. Durante una visita a Durazno, gracias Joaquín (Docente), se lograron importantes mejoras. Su guía fue clave para optimizar los archivos, mejorar la funcionalidad de las piezas y simplificar el diseño formal del dispositivo. También compartió valiosos consejos sobre flujos de trabajo que aumentaron la eficiencia al usar **Fusion 360**.  
+
+![Parametros](<../images/PI_IMG/impresiones 3D/parametros.png>)
 
 Comencé diseñando las piezas para los componentes electrónicos. Aunque no son las protagonistas del dispositivo, este terreno me resultaba desconocido y complejo, por lo que decidí abordarlo primero como un desafío inicial.  
 
-## Primera Impresión  
-Dado el tiempo limitado en el laboratorio, preparamos los archivos utilizando el software **IdeaMaker**. El uso de una boquilla de 0.8 mm en la impresora **Raise3D Pro** permitió reducir significativamente los tiempos de impresión sin comprometer la calidad, ya que la impresora realiza menos recorridos por capa.  
+![boceto](<../images/PI_IMG/impresiones 3D/boceto_01.png>)
 
-*(Aquí incluir imágenes del archivo preparado y las piezas finales impresas.)*  
+
+## Primera Impresión  
+Dado el tiempo limitado en el laboratorio, preparamos los archivos utilizando el software **IdeaMaker**. El uso de una boquilla de 0.8 mm en la impresora **Raise3D Pro** permitió reducir significativamente los tiempos de impresión sin comprometer la calidad, ya que la impresora realiza menos recorridos por capa. 
+
+![Grupo A](<../images/PI_IMG/impresiones 3D/grupo-A.gif>)
 
 ## Futuras Iteraciones  
 En próximas versiones, se trabajará en:  
