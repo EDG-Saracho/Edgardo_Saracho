@@ -5,7 +5,10 @@ Se diseñó un conjunto de piezas para ser impresas en 3D utilizando la impresor
 
 ## Función de las Piezas  
 
-### Grupo A  
+### Grupo A
+
+![Grupo A](<../images/PI_IMG/impresiones 3D/Prototipo_PRESENTACIÓN _piezasA.png>)  
+
 Las piezas del grupo A incluyen:  
 - **Porta módulos**: Diseñado para encastrar en el extremo de un caño, cuenta con una salida de cable y aberturas que permiten conectar la placa Arduino.  
 - **Porta sensor**: Una pieza que se acopla al porta módulos para alojar un sensor de flotador.  
@@ -13,7 +16,10 @@ Las piezas del grupo A incluyen:
 
 Estas piezas están diseñadas para ser manipulables, permitir el paso de aire, proteger los módulos electrónicos del agua y facilitar su instalación.  
 
-### Grupo B  
+### Grupo B
+
+  ![Grupo B](<../images/PI_IMG/impresiones 3D/Prototipo_PRESENTACIÓN_PIEZAS_B.png>)
+  
 El grupo B consta de cuatro piezas:  
 - **Agarre**: Facilita la manipulación y se incrusta en el extremo de un caño.  
 - **Disco de barrera (filtro)** y **disco de presión**: Se ensamblan al disco de agarre mediante una varilla con tuercas, formando un sistema que se inserta dentro del caño.  
