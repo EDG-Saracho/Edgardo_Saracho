@@ -42,6 +42,16 @@ Dado el tiempo limitado en el laboratorio, preparamos los archivos utilizando el
 
 ![Grupo B](<../images/PI_IMG/impresiones 3D/CAP_IDEAMKER.png>)
 
+## Resultado
+
+![Grupo A](<../images/PI_IMG/impresiones 3D/grupo_A_impresas.png>)
+
+![Grupo B](<../images/PI_IMG/impresiones 3D/grupo_B_impresas.png>)
+
+![pieza con placa](<../images/PI_IMG/impresiones 3D/pieza_con_plca.png>)
+
+![Pieza con sensor](<../images/PI_IMG/impresiones 3D/pieza_con_sensor.png>)
+
 ## Futuras Iteraciones  
 En próximas versiones, se trabajará en:  
 - Incorporar indicadores de contacto.  
