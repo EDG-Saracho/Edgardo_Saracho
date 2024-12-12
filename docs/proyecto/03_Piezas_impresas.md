@@ -36,9 +36,11 @@ Comencé diseñando las piezas para los componentes electrónicos. Aunque no son
 
 
 ## Primera Impresión  
-Dado el tiempo limitado en el laboratorio, preparamos los archivos utilizando el software **IdeaMaker**. El uso de una boquilla de 0.8 mm en la impresora **Raise3D Pro** permitió reducir significativamente los tiempos de impresión sin comprometer la calidad, ya que la impresora realiza menos recorridos por capa. 
+Dado el tiempo limitado en el laboratorio, preparamos los archivos utilizando el software **IdeaMaker**. El uso de una boquilla de 0.8 mm en la impresora **Raise3D Pro** permitió reducir significativamente los tiempos de impresión sin comprometer la calidad, ya que la impresora realiza menos recorridos por capa.
 
 ![Grupo A](<../images/PI_IMG/impresiones 3D/grupo-A.gif>)
+
+![Grupo B](<../images/PI_IMG/impresiones 3D/CAP_IDEAMKER.png>)
 
 ## Futuras Iteraciones  
 En próximas versiones, se trabajará en:  
