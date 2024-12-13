@@ -43,8 +43,10 @@ Dado el tiempo limitado en el laboratorio, preparamos los archivos utilizando el
 ![Grupo B](<../images/PI_IMG/impresiones 3D/CAP_IDEAMKER.png>)
 
 ### Proceso de impresión
+![Impresora](<../images/PI_IMG/impresiones 3D/impresora.png>)
 ![Proceso de impresión](<../images/PI_IMG/impresiones 3D/Impresion.jpg>)
 
+------------
 
 ## Resultado
 
