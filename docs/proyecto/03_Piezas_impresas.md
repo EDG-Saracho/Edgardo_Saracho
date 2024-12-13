@@ -52,9 +52,7 @@ Dado el tiempo limitado en el laboratorio, preparamos los archivos utilizando el
 
 El resultado general fue satisfactorio, ya que las piezas cumplieron con las funciones básicas para este prototipo inicial. Sin embargo, en futuras iteraciones, será necesario realizar modificaciones para optimizar algunos detalles de diseño, como mejorar los encastres y ajustar ciertas dimensiones.  
 
-[Descargar Grupo A](<../Descargas/PROYECTO FINAL/PIEZAS_PORTAPLACAS_Grupo_A_autor_EDGARDO_SARACHO.gcode>)
 
-[Descargar Grupo B](<../Descargas/PROYECTO FINAL/PIEZAS_PORTAPLACAS_Grupo_A_autor_EDGARDO_SARACHO.gcode>)
 
 ### Grupo A
 ![Grupo A](<../images/PI_IMG/impresiones 3D/grupo_A_impresas.png>)
@@ -68,6 +66,9 @@ El resultado general fue satisfactorio, ya que las piezas cumplieron con las fun
 
 Para quien desee explorar o reproducir este proyecto, dejo disponible el enlace de descarga de los archivos **G-code**: 
 
+**[Descargar Grupo A](<../Descargas/PROYECTO FINAL/PIEZAS_PORTAPLACAS_Grupo_A_autor_EDGARDO_SARACHO.gcode>)**
+
+**[Descargar Grupo B](<../Descargas/PROYECTO FINAL/PIEZAS_PORTAPLACAS_Grupo_A_autor_EDGARDO_SARACHO.gcode>)**
 
 ## Futuras Iteraciones  
 En próximas versiones, se trabajará en:  
