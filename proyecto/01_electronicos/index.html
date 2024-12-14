@@ -556,6 +556,19 @@
     Conexión y Diseño del Circuito
   </a>
   
+    <nav class="md-nav" aria-label="Conexión y Diseño del Circuito">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#codigo" class="md-nav__link">
+    Código
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -697,6 +710,19 @@
     Conexión y Diseño del Circuito
   </a>
   
+    <nav class="md-nav" aria-label="Conexión y Diseño del Circuito">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#codigo" class="md-nav__link">
+    Código
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -757,6 +783,30 @@
 <p><img alt="Diseño del circuito" src="../../images/PI_IMG/electronicos/dise%C3%B1o_circuito.jpg" /></p>
 <p>Procedí a adquirir los materiales faltantes y enfrenté algunos inconvenientes, en particular con la obtención del relé mostrado en el esquema. Utilicé un relé de 5 pines incluido en mi kit de Arduino, lo que generó dificultades al integrarlo en el esquema propuesto por Eduardo. Gracias a la colaboración de Santi Fuentemilla, con quien intercambié tutoriales e información, logramos investigar alternativas; sin embargo, persistía la incertidumbre respecto al correcto funcionamiento del relé en este contexto.</p>
 <p><img alt="Relé alternativo" src="../../images/PI_IMG/electronicos/rele_alternativo.jpg" /></p>
+<h3 id="codigo">Código<a class="headerlink" href="#codigo" title="Permanent link">&para;</a></h3>
+<p>// constants won&rsquo;t change. They&rsquo;re used here to set pin numbers:
+const int buttonPin = 5;  // the number of the pushbutton pin
+const int ledPin = 2;    // the number of the LED pin</p>
+<p>// variables will change:
+int buttonState = 0;  // variable for reading the pushbutton status</p>
+<p>void setup() {
+  // initialize the LED pin as an output:
+  pinMode(ledPin, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin, INPUT);
+}</p>
+<p>void loop() {
+  // read the state of the pushbutton value:
+  buttonState = digitalRead(buttonPin);</p>
+<p>// check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+  if (buttonState == HIGH) {
+    // turn LED on:
+    digitalWrite(ledPin, HIGH);
+  } else {
+    // turn LED off:
+    digitalWrite(ledPin, LOW);
+  }
+}</p>
 <h2 id="prueba-de-viabilidad-de-las-conexiones"><strong>Prueba de Viabilidad de las Conexiones</strong><a class="headerlink" href="#prueba-de-viabilidad-de-las-conexiones" title="Permanent link">&para;</a></h2>
 <p>Antes de usar la bomba de agua nueva, decidí realizar una prueba de viabilidad utilizando una lámpara conectada a la red eléctrica. Este ensayo utiliza el mismo esquema de conexión y permite verificar la funcionalidad del circuito sin riesgo de dañar la bomba. Esta medida de precaución garantiza que las conexiones estén bien configuradas antes de realizar el prototipo.</p>
 <p><img alt="Prueba con luz" src="../../images/PI_IMG/electronicos/03_prueba.webp" /></p>
@@ -781,7 +831,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 13, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 14, 2024</span>
     
   </small>
 </div>
