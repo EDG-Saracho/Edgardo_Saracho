@@ -20,6 +20,16 @@ Procedí a adquirir los materiales faltantes y enfrenté algunos inconvenientes,
 
 ### Código
 
+
+
+
+### Ejemplo avanzado con botón para copiar (Markdown + HTML + JavaScript)
+Si tu plataforma permite HTML y JavaScript dentro del Markdown, puedes usar el siguiente código:
+
+```markdown
+<div style="position: relative; margin-bottom: 1em;">
+  <button onclick="copyToClipboard()" style="position: absolute; top: 0; right: 0; padding: 5px 10px; cursor: pointer;">Copiar</button>
+  <pre id="code-block">
 // constants won't change. They're used here to set pin numbers:
 const int buttonPin = 5;  // the number of the pushbutton pin
 const int ledPin = 2;    // the number of the LED pin
@@ -47,6 +57,19 @@ void loop() {
     digitalWrite(ledPin, LOW);
   }
 }
+
+  </pre>
+</div>
+
+<script>
+  function copyToClipboard() {
+    const codeBlock = document.getElementById('code-block').innerText;
+    navigator.clipboard.writeText(codeBlock).then(() => {
+      alert('¡Código copiado al portapapeles!');
+    });
+  }
+</script>
+
 
 
 ## **Prueba de Viabilidad de las Conexiones**
