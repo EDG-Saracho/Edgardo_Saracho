@@ -20,7 +20,7 @@ Procedí a adquirir los materiales faltantes y enfrenté algunos inconvenientes,
 
 ### Código
 
-<pre>
+<pre><code>
 // constants won't change. They're used here to set pin numbers:
 const int buttonPin = 5;  // the number of the pushbutton pin
 const int ledPin = 2;    // the number of the LED pin
@@ -48,7 +48,7 @@ void loop() {
     digitalWrite(ledPin, LOW);
   }
 }
-</pre>
+</code></pre>
 
 
 ## **Prueba de Viabilidad de las Conexiones**
