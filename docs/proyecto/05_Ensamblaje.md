@@ -3,34 +3,7 @@
 
 
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabla de Insumos</title>
-    <style>
-        table {
-            width: 50%;
-            border-collapse: collapse;
-            margin: 20px auto;
-            font-family: Arial, sans-serif;
-        }
-        th, td {
-            border: 1px solid #000;
-            padding: 8px;
-            text-align: center;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        .total {
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <table>
+<table>
         <thead>
             <tr>
                 <th>Insumos</th>
@@ -110,7 +83,6 @@
                 <td>79.43</td>
             </tr>
         </tbody>
-    </table>
-</body>
-</html>
+</table>
+
 
