@@ -15,12 +15,13 @@ Para realizar los cortes, preparé los archivos en dos formatos principales:
 ![Mecanizado 2](../images/PI_IMG/CNC/mecanizado_1.png)
 
 - **Archivos compatibles con software vectorial:** Exporté los diseños en formato SVG, facilitando su uso en software especializado que permite ajustar configuraciones básicas de corte, como trazos, profundidades y tamaños. Esta opción resulta ideal para proyectos más sencillos o para quienes trabajan con programas que soportan archivos vectoriales. 
+
 Esta versatilidad asegura que los archivos sean accesibles y adaptables a diferentes flujos de trabajo según las herramientas disponibles.   
 
 ![Vectorizado](../images/PI_IMG/CNC/Soporte_dibujo_EDGARDO.png)
 
 ## Proceso de Corte  
-El router utilizado fue una **X-Carve**, y con el apoyo del docente Joaquín, organizamos todas las piezas del diseño en un único archivo, lo que permitió optimizar el uso de una sola placa de OSB.  
+El router utilizado fue una **X-Carve**, y con el apoyo de Joaquín (docente), organizamos todas las piezas del diseño en un único archivo, lo que permitió optimizar el uso de una sola placa de OSB.  
 La herramienta de corte empleada fue una broca de **⅛ de pulgada**, seleccionada por su precisión en detalles y capacidad para trabajar con OSB.  
 
 ![Xcarve](../images/PI_IMG/CNC/imagen_xcarve.webp)
