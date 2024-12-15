@@ -1,7 +1,7 @@
 
 ## **Introducción**
 
-El prototipo incluye piezas diseñadas específicamente para ser cortadas en CNC, lo que permitió optimizar su estructura para facilitar el ensamblaje y crear formas circulares capaces de sostener elementos clave del diseño.  
+El prototipo incluye piezas diseñadas específicamente para ser cortadas en CNC, lo que permitió optimizar su estructura para facilitar el ensamblaje y crear formas circulares capaces de sostener los tubos de pvc del diseño.  
 
 Las piezas fueron fabricadas en OSB, un material que considero interesante debido a su resistencia a la humedad y su capacidad para integrarse estéticamente con PVC, un material común en la construcción. Esta combinación aporta una estética coherente y funcional al prototipo.  
 
