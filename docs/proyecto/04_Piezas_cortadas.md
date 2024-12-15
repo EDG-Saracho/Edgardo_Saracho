@@ -35,6 +35,18 @@ Durante la fabricación, surgieron inconvenientes con los espacios de encastre d
 
 Para solucionar este problema a largo plazo, ajusté los archivos digitales modificando las holguras para optimizar el encastre. Además, los círculos diseñados para fijar componentes también quedan algo justos, lo que generó dificultades adicionales durante el ensamblaje. 
 
+## Futuras Iteraciones  
+
+El prototipo actual está diseñado para funcionar con un solo módulo, pero para futuras iteraciones sería importante:  
+
+- **Ampliar la estructura:** Rediseñarla para que sea capaz de sostener hasta seis módulos de manera estable.  
+
+- **Mejorar la interacción persona-objeto:** Ajustar el diseño para que sea más intuitivo y accesible para el usuario final.  
+
+- **Optimizar la estética:** Trabajar en detalles visuales que aumenten el atractivo general del diseño, manteniendo la coherencia con los materiales utilizados.  
+
+Estas mejoras permitirán que el diseño evolucione hacia una solución más versátil, funcional y estéticamente atractiva.  
+
 ## Archivos Disponibles  
 Como parte del proyecto, generé los archivos vectoriales y el G-code necesarios para el corte en CNC. Estos archivos están disponibles para su descarga, facilitando la reproducción del diseño o futuras modificaciones por parte de otros usuarios interesados.  
 
