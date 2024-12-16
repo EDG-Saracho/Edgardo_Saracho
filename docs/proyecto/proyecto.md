@@ -129,12 +129,39 @@ La investigación cuenta con un análisis más extenso, en el que los datos se h
 Creé un Mapa del Universo que organiza una selección de productos explorados, utilizando dos ejes principales. El eje vertical clasifica los productos según su forma de producción, distinguiendo entre métodos artesanales e industriales, mientras que el eje horizontal los categoriza según la forma en que reutilizan las aguas grises (AG), ya sea de manera directa o indirecta.
 Esta representación gráfica permitió identificar una oportunidad de desarrollo para un producto innovador. A partir de este análisis, seleccioné cualidades destacadas de algunos de los productos estudiados y les añadí un valor agregado ausente en las soluciones existentes. Entre estos diferenciales, se incluye la implementación de tecnologías de fabricación digital y la posibilidad de personalización, lo que amplía su utilidad y adaptabilidad a distintos contextos y necesidades.
 
+## Proceso de Diseño 
+
+### Enfoque del Proyecto
+Para este proyecto, me centré en un único módulo y en los componentes esenciales para evaluar su funcionamiento. El proceso de diseño pasó por varias iteraciones, marcadas principalmente por un enfoque en la síntesis y en la mejora continua.
+
+### Desafíos del Diseño
+Uno de los principales desafíos fue la implementación de tecnologías de fabricación digital. Estas herramientas me permitieron:
+- **Complejizar el diseño de las piezas**, logrando que la secuencia de uso fuese más automatizada.
+- **Mejorar la estética del producto**, explorando las posibilidades creativas que ofrecen estas tecnologías para desarrollar piezas más jugadas.
 
 ## Creatividad: Pompe 2.0
 
 Se propone un dispositivo filtrante biológico diseñado para las conexiones de desagüe de lavadoras, con el objetivo de clarificar y filtrar las aguas grises (AG). El dispositivo integra capas de materiales filtrantes como grava, algodón o guata, junto con una barrera fabricada mediante impresión 3D. Además, incorpora plantas acuáticas que oxigenan el agua y absorben nutrientes, creando un sistema de filtración natural y eficiente.
 
+### Iteraciones del Diseño
+El desarrollo del prototipo se dividió en tres etapas principales:
+
+![iteraciones](../images/PI_IMG/proyecto_iteraciones.png)
+
+**1. Diseño Inicial (2023)**
+La primera idea, concebida en 2023, era rústica, funcional y práctica. Este diseño se enfoca exclusivamente en cumplir con los requerimientos esenciales, sin explorar demasiadas posibilidades estéticas o complejidades formales.
+
+**2. Exploración**
+Con la incorporación de herramientas como la impresión 3D y el router CNC, comencé a imaginar piezas con formas más curvas y complejas. Sin embargo, la frase: *“Rounded is not circular”* me hizo reflexionar mucho y cuestionarme el flujo productivo. Noté que muchas piezas tienen formas excesivamente circulares y redondeadas, lo que no reflejaba de manera honesta la intención del diseño.
+
+**3. Síntesis**
+En la tercera iteración, opté por un diseño más honesto y sintético, reduciendo los detalles innecesarios. Este enfoque resultó en piezas funcionales pero estéticamente interesantes, que promueven una mejor interacción y un diálogo más fluido con los demás componentes del sistema.
+
+Además, al analizar el tiempo y la complejidad que implica la impresión 3D, me plantee la necesidad de que las piezas sean altamente específicas para justificar el uso de esta tecnología. Este es un aspecto importante que seguiré explorando en futuras iteraciones, buscando equilibrar funcionalidad, estética y viabilidad productiva.
+
 ### Render
+![Render](../images/PI_IMG/fotomontaje_render.png)
+
 
 ![Creatividad](../images/PI_IMG/antecedentes/creatividad_.png)
 
