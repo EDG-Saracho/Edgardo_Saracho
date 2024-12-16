@@ -15,7 +15,7 @@ A continuación, se detalla la lista de materiales utilizados para el prototipo,
             <tr>
                 <th>Insumos</th>
                 <th>Cantidad</th>
-                <th>Precio</th>
+                <th>Precio ($)</th>
             </tr>
         </thead>
         <tbody>
