@@ -5,6 +5,20 @@ En esta página presento el proceso de ensamblaje del prototipo, junto con una l
 
 Las piezas **ruteadas** e **impresas en 3D** fueron producidas en los laboratorios de fabricación digital de la **UTEC**. Por este motivo, no tengo información precisa sobre sus costos, lo que representa un aspecto a investigar en el futuro para evaluar la viabilidad económica de la producción en otros contextos.
 
+## Organización y Planeamiento
+
+Para gestionar el desarrollo del proyecto, utilicé diferentes herramientas que me ayudaron a organizar el trabajo y cumplir con los plazos establecidos:  
+
+- **Tabla de Producción:** Implementada en el curso para desglosar las tareas y materiales necesarios para cada etapa del proceso.  
+
+![Tabla de producción](../images/PI_IMG/Ensamblaje/tabla_produccion.png)
+
+- **Notion:** Utilicé esta herramienta para centralizar toda la información del proyecto y diseñar un diagrama de Gantt personalizado. Este diagrama fue fundamental para planificar y visualizar las fases del proyecto, asegurando que las actividades clave se completaran dentro de los tiempos previstos.  
+
+![Notion](../images/PI_IMG/Ensamblaje/gant_.png)
+
+El uso combinado de estas herramientas no solo facilitó el seguimiento del proyecto, sino que también permitió identificar prioridades y ajustar tareas según los avances y contratiempos.
+
 ![Insumos](../images/PI_IMG/Ensamblaje/insumos_.png)
 
 ### Lista de Insumos 
