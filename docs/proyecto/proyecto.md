@@ -163,11 +163,9 @@ Además, al analizar el tiempo y la complejidad que implica la impresión 3D, me
 ![Render](../images/PI_IMG/fotomontaje_render.png)
 
 
-![Creatividad](../images/PI_IMG/antecedentes/creatividad_.png)
-
 ### Funcionamiento
 
-
+![FUNCIONAMIENTO](../images/PI_IMG/antecedentes/creatividad_.png)
 
 **Parte A**
 
