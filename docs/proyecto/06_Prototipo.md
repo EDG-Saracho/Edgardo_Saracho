@@ -3,6 +3,9 @@ En esta página presento algunas fotos del prototipo final y dejo disponible par
 
 ## Dispositivo
 
+![Armado](../images/PI_IMG/06_PROTOTIPO/prototipo_armado.png)
+![Prototipo vista superior](../images/PI_IMG/06_PROTOTIPO/vista_superior.JPG)
+![puesta en contexto](../images/PI_IMG/06_PROTOTIPO/puestae_en-lavadora.png)
 
 ## Archivos Descargables
 
