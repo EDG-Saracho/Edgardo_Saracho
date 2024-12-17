@@ -135,10 +135,11 @@ En el video adjunto se muestran algunas de las pruebas y ensayos realizados ante
 - **Pruebas de la bomba y el circuito eléctrico.**  
 ![Pruebas de la bomba](../images/PI_IMG/Ensamblaje/prueba_bomba.png)
 
-![Electronica](../images/PI_IMG/Ensamblaje/electronica.png)
+![circuito eléctrico](../images/PI_IMG/Ensamblaje/electronico02.png)
+
 
 - **Mantenimiento del filtro y evaluación de su funcionalidad.**
-![Mantenimiento](../images/PI_IMG/Ensamblaje/prueba_de_mantenimiento.jpg)  
+![Mantenimiento](../images/PI_IMG/Ensamblaje/Mantenimiento.jpg)
 
 Estos pasos fueron fundamentales para asegurar la viabilidad y el correcto funcionamiento del sistema.
 
