@@ -11,7 +11,8 @@ Este proyecto surge de un enfoque de diseño abierto, iniciado como mi trabajo f
 
 Las aguas grises (AG) son aquellas provenientes de actividades domésticas como el lavado de alimentos, utensilios de cocina, manos, duchas y superficies en general. Representan aproximadamente el 60% del agua consumida en los hogares, según datos de la Unidad Reguladora de Servicios de Energía y Agua (URSEA). Estas aguas, al no contener residuos de inodoros, tienen un potencial significativo para ser tratadas y reutilizadas, lo que contribuye a una gestión más eficiente de los recursos hídricos y a la reducción del impacto ambiental.
 
-Siendo parte de esta comunidad, por residir en la periferia de Montevideo, diseñé el proyecto con un entendimiento directo de las necesidades locales y los desafíos específicos que enfrentan las personas en esta situación. Además, utilicé la metodología de first person perspective, que me permitió pensar como usuario, poniendo el foco en la experiencia y las necesidades prácticas, lo que enriqueció el proceso de diseño.
+Siendo parte de esta comunidad, por residir en la periferia de Montevideo, diseñé el proyecto con un entendimiento directo de las necesidades locales y los desafíos específicos que enfrentan las personas en esta situación. Además, utilicé la metodología de **first person perspective**, que me permitió pensar como usuario, poniendo el foco en la experiencia y las necesidades prácticas, lo que enriqueció el proceso de diseño.
+
 
 Para abordar esta problemática, se implementaron tecnologías como la electrónica, la impresión 3D y el ruteado de placas de OSB, combinando fabricación digital con materiales locales y económicos. Este enfoque distribuye la capacidad de producción a nivel comunitario y prioriza la sostenibilidad, promoviendo el ahorro de recursos hídricos y la reducción de impactos ambientales.
 El proyecto busca no solo resolver un problema técnico, sino también generar un modelo inclusivo y replicable que fomente la innovación local, el cuidado del medioambiente y la mejora en la calidad de vida.
@@ -132,9 +133,17 @@ Esta representación gráfica permitió identificar una oportunidad de desarroll
 
 ## Creatividad: Pompe 2.0
 
-Se propone un dispositivo filtrante biológico diseñado para las conexiones de desagüe de lavadoras, con el objetivo de clarificar y filtrar las aguas grises (AG). El dispositivo integra capas de materiales filtrantes como grava, algodón o guata, junto con una barrera fabricada mediante impresión 3D. Además, incorpora plantas acuáticas que oxigenan el agua y absorben nutrientes, creando un sistema de filtración natural y eficiente.
+Se propone un **dispositivo filtrante físico - biológico** diseñado para las conexiones de **desagüe de lavadoras**, con el objetivo de clarificar y filtrar las aguas grises (AG). El dispositivo integra capas de materiales filtrantes como grava, algodón o guata, junto con una barrera fabricada mediante impresión 3D. Además, incorpora plantas acuáticas que oxigenan el agua y absorben nutrientes, creando un sistema de filtración natural y eficiente.
 
 * El nombre del dispositivo está asociado a la arquitectura del Museo *Pompidou* en París, caracterizado por su estructura tubular vertical.
+
+Según los resultados de una encuesta previa, se identificó que las aguas provenientes de lavadoras son comúnmente vertidas en vías públicas o absorbidas por el terreno, además de ser las menos contaminadas entre las aguas residuales domésticas. Esto refuerza el potencial del dispositivo como una solución viable para la reutilización responsable de las aguas grises.
+
+El diseño destaca por ser **compacto y modular**, permitiendo su instalación en espacios reducidos. Está fabricado con materiales resistentes al agua y la corrosión, asegurando una alta durabilidad. La implementación del **dispositivo requiere un espacio adyacente a la lavadora** para su colocación, un sistema de desagües separativos que evite conexiones a fosas sépticas y la disponibilidad de sistemas de bombeo, ya sean manuales o eléctricos, para el almacenamiento y la distribución del agua filtrada.
+
+El **compromiso de las personas usuarias es esencial**, especialmente en lo que respecta al **mantenimiento** periódico del sistema. Este dispositivo ofrece múltiples **aplicaciones para las aguas tratadas, incluyendo riego por goteo, descargas sanitarias y limpieza de superficies.**
+
+
 
 ### Iteraciones del Diseño
 El desarrollo del prototipo se dividió en tres etapas principales:
