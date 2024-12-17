@@ -8,6 +8,11 @@ En esta página presento algunas fotos del prototipo final y dejo disponible par
 ![detalle salida de agua](../images/PI_IMG/06_PROTOTIPO/detalles_salida_agua.png)
 ![puesta en contexto](../images/PI_IMG/06_PROTOTIPO/puestae_en-lavadora.png)
 
+
+## Video
+
+<iframe width="688" height="388" src="https://www.youtube.com/embed/8UGYwvOUGKc?si=hJAnl--X82mQ9_XY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Archivos Descargables
 
 1. **Modelo 3D en Fusion 360**  
