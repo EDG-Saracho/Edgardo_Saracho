@@ -19,15 +19,16 @@ Como parte del desarrollo, elaboré un **manual de ensamblaje** basado en el flu
 
 ![Manual de Ensamblaje](../images/PI_IMG/Ensamblaje/flujo_productivo.png)
 
-[**Descargar Manual de Ensamblaje**](<../Descargas/PROYECTO FINAL/FLUJO_PRODUCTIVO_POMPE.pdf>)
-
 
 ## Archivos Descargables
 
 1. **Modelo 3D en Fusion 360**  
 [Descargar archivo Fusion 360](ruta/archivo_fusion.f3d)  
 
-2. **Presentación final del proyecto**  
+2. **Manual de Ensamblaje**  
+[Descargar Manual de Ensamblaje](<../Descargas/PROYECTO FINAL/FLUJO_PRODUCTIVO_POMPE.pdf>)
+
+3. **Presentación final del proyecto**  
 [Descargar presentación](ruta/presentacion_final.pdf) 
 
 ## Conclusiones
