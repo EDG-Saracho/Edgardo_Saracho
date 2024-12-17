@@ -135,7 +135,7 @@ Además de sus propiedades funcionales, la Redondita de agua pertenece a la flor
 
 ### Prueba del Prototipo con Agua
 
-Para validar el funcionamiento del prototipo, realicé una prueba utilizando 18 litros de agua (equivalentes a tres bidones de agua de 6 litros cada uno). Con esta cantidad de agua, logré poner en marcha la bomba de agua sin inconvenientes, comprobando que el sistema era capaz de activar y controlar el flujo como se esperaba.
+Para validar el funcionamiento del prototipo, realicé una prueba utilizando 18 litros de aguas grises (equivalentes a tres bidones de agua de 6 litros cada uno). Con esta cantidad de agua, logré poner en marcha la bomba de agua sin inconvenientes, comprobando que el sistema era capaz de activar y controlar el flujo como se esperaba.
 
 ![alt text](../images/PI_IMG/Ensamblaje/prueba_agua.jpg)
 
