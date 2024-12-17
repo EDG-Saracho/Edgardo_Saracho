@@ -15,7 +15,7 @@ En esta página presento algunas fotos del prototipo final y dejo disponible par
 
 ## Manual de ensamblaje
 
-Como parte del desarrollo, elaboré un **manual de ensamblaje** basado en el flujo productivo. Opté por hacerlo básico y altamente iconográfico para facilitar su comprensión. En futuras iteraciones, me gustaría crear una versión más desarrollada y compacta, ideal como formato de bolsillo. Puedes descargar el manual desde el siguiente enlace: 
+Como parte del desarrollo, elaboré un **manual de ensamblaje** basado en el flujo productivo. Opté por hacerlo básico y altamente iconográfico para facilitar su comprensión. En futuras iteraciones, me gustaría crear una versión más desarrollada y compacta, ideal como formato de bolsillo. 
 
 ![Manual de Ensamblaje](../images/PI_IMG/Ensamblaje/flujo_productivo.png)
 
