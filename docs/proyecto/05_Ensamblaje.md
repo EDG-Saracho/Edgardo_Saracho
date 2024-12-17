@@ -120,9 +120,9 @@ A continuación, se detalla la lista de materiales utilizados para el prototipo,
 
 ## Selección de la especie vegetal para el prototipo
 
-Para el prototipo seleccioné la Hydrocotyle bonariensis, conocida comúnmente como muñequita de agua o redondita de agua, una planta herbácea nativa que crece en cunetas pluviales. Durante mi observación, noté que en las áreas donde prospera esta especie no se produce eutrofización ni acumulación de suelos lodosos, lo cual es un indicador positivo de su impacto en el entorno.
+Para el prototipo seleccioné la *Hydrocotyle bonariensis*, conocida comúnmente como muñequita de agua o **redondita de agua**, una planta herbácea nativa que crece en cunetas pluviales. Durante mi observación, noté que en las áreas donde prospera esta especie no se produce eutrofización ni acumulación de suelos lodosos, lo cual es un indicador positivo de su impacto en el entorno.
 
-Además de sus propiedades funcionales, la Hydrocotyle bonariensis pertenece a la flora local y presenta una estética atractiva, factores que me parecieron apropiados para incorporarla en el diseño del prototipo.
+Además de sus propiedades funcionales, la Redondita de agua pertenece a la flora local, crece en abundancia y presenta una estética atractiva, factores que me parecieron apropiados para incorporarla en el diseño del prototipo.
 
 ![Plantas cuneta](../images/PI_IMG/Ensamblaje/plantas_cuneta.png)
 
@@ -132,7 +132,7 @@ Además de sus propiedades funcionales, la Hydrocotyle bonariensis pertenece a l
 ![Pegamento de caños](../images/PI_IMG/Ensamblaje/pegamento_de_caños.jpg)
 
 En el video adjunto se muestran algunas de las pruebas y ensayos realizados antes de ensamblar el prototipo final. Estas incluyen:
-  
+
 - **Pruebas de la bomba y el circuito eléctrico.** 
 
 ![Pruebas de la bomba](../images/PI_IMG/Ensamblaje/prueba_bomba.png)
