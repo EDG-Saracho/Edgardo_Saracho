@@ -130,16 +130,6 @@ La investigación cuenta con un análisis más extenso, en el que los datos se h
 Creé un Mapa del Universo que organiza una selección de productos explorados, utilizando dos ejes principales. El eje vertical clasifica los productos según su forma de producción, distinguiendo entre métodos artesanales e industriales, mientras que el eje horizontal los categoriza según la forma en que reutilizan las aguas grises (AG), ya sea de manera directa o indirecta.
 Esta representación gráfica permitió identificar una oportunidad de desarrollo para un producto innovador. A partir de este análisis, seleccioné cualidades destacadas de algunos de los productos estudiados y les añadí un valor agregado ausente en las soluciones existentes. Entre estos diferenciales, se incluye la implementación de tecnologías de fabricación digital y la posibilidad de personalización, lo que amplía su utilidad y adaptabilidad a distintos contextos y necesidades.
 
-## Proceso de Diseño 
-
-### Enfoque del Proyecto
-Para este proyecto, me centré en un único módulo y en los componentes esenciales para evaluar su funcionamiento. El proceso de diseño pasó por varias iteraciones, marcadas principalmente por un enfoque en la síntesis y en la mejora continua.
-
-### Desafíos del Diseño
-Uno de los principales desafíos fue la implementación de tecnologías de fabricación digital. Estas herramientas me permitieron:
-- **Complejizar el diseño de las piezas**, logrando que la secuencia de uso fuese más automatizada.
-- **Mejorar la estética del producto**, explorando las posibilidades creativas que ofrecen estas tecnologías para desarrollar piezas más jugadas.
-
 ## Creatividad: Pompe 2.0
 
 Se propone un dispositivo filtrante biológico diseñado para las conexiones de desagüe de lavadoras, con el objetivo de clarificar y filtrar las aguas grises (AG). El dispositivo integra capas de materiales filtrantes como grava, algodón o guata, junto con una barrera fabricada mediante impresión 3D. Además, incorpora plantas acuáticas que oxigenan el agua y absorben nutrientes, creando un sistema de filtración natural y eficiente.
@@ -161,6 +151,14 @@ Con la incorporación de herramientas como la impresión 3D y el router CNC, com
 En la tercera iteración, opté por un diseño más honesto y sintético, reduciendo los detalles innecesarios. Este enfoque resultó en piezas funcionales pero estéticamente interesantes, que promueven una mejor interacción y un diálogo más fluido con los demás componentes del sistema.
 
 Además, al analizar el tiempo y la complejidad que implica la impresión 3D, me plantee la necesidad de que las piezas sean altamente específicas para justificar el uso de esta tecnología. Este es un aspecto importante que seguiré explorando en futuras iteraciones, buscando equilibrar funcionalidad, estética y viabilidad productiva.
+
+### Enfoque del Proyecto
+Para este proyecto, me centré en un único módulo y en los componentes esenciales para evaluar su funcionamiento. El proceso de diseño pasó por varias iteraciones, marcadas principalmente por un enfoque en la síntesis y en la mejora continua.
+
+### Desafíos del Diseño
+Uno de los principales desafíos fue la implementación de tecnologías de fabricación digital. Estas herramientas me permitieron:
+- **Complejizar el diseño de las piezas**, logrando que la secuencia de uso fuese más automatizada.
+- **Mejorar la estética del producto**, explorando las posibilidades creativas que ofrecen estas tecnologías para desarrollar piezas más jugadas.
 
 ### Cotas Generales
 ![Cotas generales](../images/PI_IMG/COTAS_GENERALES.jpg)
@@ -185,11 +183,7 @@ Cuenta con una bomba de agua que se activa mediante la programación de un placa
 ![Corte prototipo](../images/PI_IMG/PROTOTIPO_CORTE.png)
 
 
-El diseño destaca por ser compacto y modular, permitiendo su instalación en espacios reducidos. Está fabricado con materiales resistentes al agua y la corrosión, asegurando una alta durabilidad. La implementación del dispositivo requiere un espacio adyacente a la lavadora para su colocación, un sistema de desagües separativos que evite conexiones a fosas sépticas y la disponibilidad de sistemas de bombeo, ya sean manuales o eléctricos, para el almacenamiento y la distribución del agua filtrada.
 
-El compromiso de las personas usuarias es esencial, especialmente en lo que respecta al mantenimiento periódico del sistema. Este dispositivo ofrece múltiples aplicaciones para las aguas tratadas, incluyendo riego por goteo, descargas sanitarias y limpieza de superficies.
-
-Según los resultados de una encuesta previa, se identificó que las aguas provenientes de lavadoras son comúnmente vertidas en vías públicas o absorbidas por el terreno, además de ser las menos contaminadas entre las aguas residuales domésticas. Esto refuerza el potencial del dispositivo como una solución viable para la reutilización responsable de las aguas grises.
 
 
 
