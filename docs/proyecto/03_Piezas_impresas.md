@@ -75,5 +75,6 @@ En próximas versiones, se trabajará en:
 - Incorporar indicadores de contacto.  
 - Mejorar la interacción entre las piezas.  
 - Optimizar detalles de espacio y estructura para que las placas electrónicas queden más ordenadas.  
+![Futuras Iteraciones](<../images/PI_IMG/impresiones 3D/iteraciones_3D.png>)
 
 
