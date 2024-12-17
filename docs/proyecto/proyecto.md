@@ -169,12 +169,11 @@ Uno de los principales desafíos fue la implementación de tecnologías de fabri
 - **Complejizar el diseño de las piezas**, logrando que la secuencia de uso fuese más automatizada.
 - **Mejorar la estética del producto**, explorando las posibilidades creativas que ofrecen estas tecnologías para desarrollar piezas más jugadas.
 
-### Cotas Generales
-![Cotas generales](../images/PI_IMG/COTAS_GENERALES.jpg)
-
-### Render
+### Render propuesta final
 ![Render](../images/PI_IMG/fotomontaje_render.png)
 
+### Cotas Generales
+![Cotas generales](../images/PI_IMG/COTAS_GENERALES.jpg)
 
 ### Funcionamiento
 
