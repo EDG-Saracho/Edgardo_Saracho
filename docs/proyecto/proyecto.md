@@ -66,7 +66,8 @@ Saracho Vaz, E. (2023.). Dispositivo para la recuperación y reutilización de a
     <tr>
       <td><strong>6. Creatividad</strong></td>
       <td><em>Generación de ideas y soluciones posibles, utilizando técnicas creativas.</em></td>
-      <td> Dispositivo inteligente que recupere, clarifique y almacene un porcentaje de AG producidas por la lavadora</td>
+      <td> ¿Es posible mejorar la funcionalidad y automatización de <b>Pompe</b> utilizando herramientas de fabricación digital como impresión 3D, corte láser o CNC?<br>
+      Dispositivo inteligente que recupere, clarifique y almacene un porcentaje de AG producidas por la lavadora</td>
     </tr>
     <tr>
       <td><strong>7. Materiales y tecnologías</strong></td>
@@ -142,6 +143,8 @@ Uno de los principales desafíos fue la implementación de tecnologías de fabri
 ## Creatividad: Pompe 2.0
 
 Se propone un dispositivo filtrante biológico diseñado para las conexiones de desagüe de lavadoras, con el objetivo de clarificar y filtrar las aguas grises (AG). El dispositivo integra capas de materiales filtrantes como grava, algodón o guata, junto con una barrera fabricada mediante impresión 3D. Además, incorpora plantas acuáticas que oxigenan el agua y absorben nutrientes, creando un sistema de filtración natural y eficiente.
+
+* El nombre del dispositivo está asociado a la arquitectura del Museo *Pompidou* en París, caracterizado por su estructura tubular vertical.
 
 ### Iteraciones del Diseño
 El desarrollo del prototipo se dividió en tres etapas principales:
