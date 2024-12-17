@@ -13,6 +13,15 @@ En esta página presento algunas fotos del prototipo final y dejo disponible par
 
 <iframe width="688" height="388" src="https://www.youtube.com/embed/8UGYwvOUGKc?si=hJAnl--X82mQ9_XY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Manual de ensamblaje
+
+Como parte del desarrollo, elaboré un **manual de ensamblaje** basado en el flujo productivo. Opté por hacerlo básico y altamente iconográfico para facilitar su comprensión. En futuras iteraciones, me gustaría crear una versión más desarrollada y compacta, ideal como formato de bolsillo. Puedes descargar el manual desde el siguiente enlace: 
+
+![Manual de Ensamblaje](../images/PI_IMG/Ensamblaje/flujo_productivo.png)
+
+[**Descargar Manual de Ensamblaje**](<../Descargas/PROYECTO FINAL/FLUJO_PRODUCTIVO_POMPE.pdf>)
+
+
 ## Archivos Descargables
 
 1. **Modelo 3D en Fusion 360**  
