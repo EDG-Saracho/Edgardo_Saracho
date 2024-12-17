@@ -118,13 +118,13 @@ A continuación, se detalla la lista de materiales utilizados para el prototipo,
 </table>
 
 
-## Manual de ensamblaje
+## Selección de la especie vegetal para el prototipo
 
-Como parte del desarrollo, elaboré un **manual de ensamblaje** basado en el flujo productivo. Opté por hacerlo básico y altamente iconográfico para facilitar su comprensión. En futuras iteraciones, me gustaría crear una versión más desarrollada y compacta, ideal como formato de bolsillo. Puedes descargar el manual desde el siguiente enlace:  
-![Manual de Ensamblaje](../images/PI_IMG/Ensamblaje/flujo_productivo.png)
+Para el prototipo seleccioné la Hydrocotyle bonariensis, conocida comúnmente como muñequita de agua o redondita de agua, una planta herbácea nativa que crece en cunetas pluviales. Durante mi observación, noté que en las áreas donde prospera esta especie no se produce eutrofización ni acumulación de suelos lodosos, lo cual es un indicador positivo de su impacto en el entorno.
 
-[**Descargar Manual de Ensamblaje**](<../Descargas/PROYECTO FINAL/FLUJO_PRODUCTIVO_POMPE.pdf>)
+Además de sus propiedades funcionales, la Hydrocotyle bonariensis pertenece a la flora local y presenta una estética atractiva, factores que me parecieron apropiados para incorporarla en el diseño del prototipo.
 
+![Plantas cuneta](../images/PI_IMG/Ensamblaje/plantas_cuneta.png)
 
 ## Pruebas y Ensayos
 ![Prototipo](../images/PI_IMG/Ensamblaje/proceso.png)
@@ -142,9 +142,16 @@ En el video adjunto se muestran algunas de las pruebas y ensayos realizados ante
 
 Estos pasos fueron fundamentales para asegurar la viabilidad y el correcto funcionamiento del sistema.
 
-
 <iframe width="688" height="388"
 src="https://www.youtube.com/embed/yK3vQS_ltQw?si=NwHAIi9ug4bTfs48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Manual de ensamblaje
+
+Como parte del desarrollo, elaboré un **manual de ensamblaje** basado en el flujo productivo. Opté por hacerlo básico y altamente iconográfico para facilitar su comprensión. En futuras iteraciones, me gustaría crear una versión más desarrollada y compacta, ideal como formato de bolsillo. Puedes descargar el manual desde el siguiente enlace: 
+
+![Manual de Ensamblaje](../images/PI_IMG/Ensamblaje/flujo_productivo.png)
+
+[**Descargar Manual de Ensamblaje**](<../Descargas/PROYECTO FINAL/FLUJO_PRODUCTIVO_POMPE.pdf>)
 
 
 
