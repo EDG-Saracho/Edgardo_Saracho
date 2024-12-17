@@ -149,7 +149,7 @@ Sin embargo, al realizar la prueba en la lavadora, el caudal de agua resultó se
 ![circuito eléctrico](../images/PI_IMG/Ensamblaje/electronico02.png)
 
 
-### Mantenimiento del filtro y evaluación de su funcionalidad.** 
+### Mantenimiento del filtro y evaluación de su funcionalidad.
 
 ![Mantenimiento](../images/PI_IMG/Ensamblaje/Mantenimiento.jpg)
 
