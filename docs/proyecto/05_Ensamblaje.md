@@ -129,9 +129,15 @@ Como parte del desarrollo, elaboré un **manual de ensamblaje** basado en el flu
 ## Pruebas y Ensayos
 ![Prototipo](../images/PI_IMG/Ensamblaje/proceso.png)
 
+![Pegamento de caños](../images/PI_IMG/Ensamblaje/pegamento_de_caños.jpg)
+
 En el video adjunto se muestran algunas de las pruebas y ensayos realizados antes de ensamblar el prototipo final. Estas incluyen:  
 - **Pruebas de la bomba y el circuito eléctrico.**  
-- **Mantenimiento del filtro y evaluación de su funcionalidad.**  
+![Pruebas de la bomba](../images/PI_IMG/Ensamblaje/prueba_bomba.png)
+
+- **Mantenimiento del filtro y evaluación de su funcionalidad.**
+![Mantenimiento](../images/PI_IMG/Ensamblaje/prueba_de_mantenimiento.jpg)  
+
 Estos pasos fueron fundamentales para asegurar la viabilidad y el correcto funcionamiento del sistema.
 
 
