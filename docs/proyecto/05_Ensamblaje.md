@@ -3,10 +3,6 @@
 
 En esta página presento el proceso de ensamblaje del prototipo, junto con una lista de insumos detallada, incluyendo sus precios en el mercado local. Muchos de los componentes se adquirieron a través de plataformas como Mercado Libre.
 
-Las piezas **ruteadas** e **impresas en 3D** fueron producidas en los laboratorios de fabricación digital de la **UTEC**. Por este motivo, no tengo información precisa sobre sus costos, lo que representa un aspecto a investigar en el futuro para evaluar la viabilidad económica de la producción en otros contextos.
-
-![Insumos](../images/PI_IMG/Ensamblaje/insumos_.png)
-
 ### Organización y Planeamiento
 
 Para gestionar el desarrollo del proyecto, utilicé diferentes herramientas que me ayudaron a organizar el trabajo y cumplir con los plazos establecidos:  
@@ -21,6 +17,9 @@ Para gestionar el desarrollo del proyecto, utilicé diferentes herramientas que 
 
 El uso combinado de estas herramientas no solo facilitó el seguimiento del proyecto, sino que también permitió identificar prioridades y ajustar tareas según los avances y contratiempos.
 
+Las piezas **ruteadas** e **impresas en 3D** fueron producidas en los laboratorios de fabricación digital de la **UTEC**. Por este motivo, no tengo información precisa sobre sus costos, lo que representa un aspecto a investigar en el futuro para evaluar la viabilidad económica de la producción en otros contextos.
+
+![Insumos](../images/PI_IMG/Ensamblaje/insumos_.png)
 
 ### Lista de Insumos 
 A continuación, se detalla la lista de materiales utilizados para el prototipo, junto con sus precios aproximados en el mercado local:
@@ -117,6 +116,19 @@ A continuación, se detalla la lista de materiales utilizados para el prototipo,
         </tbody>
 </table>
 
+### Organización y Planeamiento
+
+Para gestionar el desarrollo del proyecto, utilicé diferentes herramientas que me ayudaron a organizar el trabajo y cumplir con los plazos establecidos:  
+
+- **Tabla de Producción:** Implementada en el curso para desglosar las tareas y materiales necesarios para cada etapa del proceso.  
+
+![Tabla de producción](../images/PI_IMG/Ensamblaje/tabla_produccion.png)
+
+- **Notion:** Utilicé esta herramienta para centralizar toda la información del proyecto y diseñar un diagrama de Gantt personalizado. Este diagrama fue fundamental para planificar y visualizar las fases del proyecto, asegurando que las actividades clave se completaran dentro de los tiempos previstos.  
+
+![Notion](../images/PI_IMG/Ensamblaje/gant_.png)
+
+El uso combinado de estas herramientas no solo facilitó el seguimiento del proyecto, sino que también permitió identificar prioridades y ajustar tareas según los avances y contratiempos.
 
 ## Selección de la especie vegetal para el prototipo
 
@@ -144,7 +156,6 @@ En el video adjunto se muestran algunas de las pruebas y ensayos realizados ante
 
 ![Mantenimiento](../images/PI_IMG/Ensamblaje/Mantenimiento.jpg)
 
-Estos pasos fueron fundamentales para asegurar la viabilidad y el correcto funcionamiento del sistema.
 
 <iframe width="688" height="388"
 src="https://www.youtube.com/embed/yK3vQS_ltQw?si=NwHAIi9ug4bTfs48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
