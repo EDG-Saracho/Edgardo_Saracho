@@ -162,6 +162,9 @@ En la tercera iteración, opté por un diseño más honesto y sintético, reduci
 
 Además, al analizar el tiempo y la complejidad que implica la impresión 3D, me plantee la necesidad de que las piezas sean altamente específicas para justificar el uso de esta tecnología. Este es un aspecto importante que seguiré explorando en futuras iteraciones, buscando equilibrar funcionalidad, estética y viabilidad productiva.
 
+### Cotas Generales
+![Cotas generales](../images/PI_IMG/COTAS_GENERALES.jpg)
+
 ### Render
 ![Render](../images/PI_IMG/fotomontaje_render.png)
 
