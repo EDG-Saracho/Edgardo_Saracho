@@ -159,6 +159,15 @@ En el video adjunto se muestran algunas de las pruebas y ensayos realizados ante
 src="https://www.youtube.com/embed/yK3vQS_ltQw?si=NwHAIi9ug4bTfs48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+### Video Filtro - Revisión y Mantenimiento
+
+<iframe width="688" height="388" src="https://www.youtube.com/embed/liEHHCGcEvI?si=gCaeRS-BRB4Jcq4X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### Video Elementos Electrónicos -  Revisión y Funcionamiento
+
+<iframe width="688" height="388" src="https://www.youtube.com/embed/tXCWXE0Mv1I?si=Fgz6USPgP67xK3Jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 
