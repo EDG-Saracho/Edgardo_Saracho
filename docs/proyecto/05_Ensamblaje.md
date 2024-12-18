@@ -133,6 +133,11 @@ Además de sus propiedades funcionales, la Redondita de agua pertenece a la flor
 
 ![Pegamento de caños](../images/PI_IMG/Ensamblaje/pegamento_de_caños.jpg)
 
+### Video Pruebas y Ensamblaje
+
+<iframe width="688" height="388"
+src="https://www.youtube.com/embed/yK3vQS_ltQw?si=NwHAIi9ug4bTfs48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Prueba del Prototipo con Agua
 
 Para validar el funcionamiento del prototipo, realicé una prueba utilizando 18 litros de aguas grises (equivalentes a tres bidones de agua de 6 litros cada uno). Con esta cantidad de agua, logré poner en marcha la bomba de agua sin inconvenientes, comprobando que el sistema era capaz de activar y controlar el flujo como se esperaba.
@@ -142,21 +147,21 @@ Para validar el funcionamiento del prototipo, realicé una prueba utilizando 18 
 Sin embargo, al realizar la prueba en la lavadora, el caudal de agua resultó ser demasiado alto, lo que generó un exceso de flujo para el sistema de drenaje de la máquina. Este comportamiento estaba previsto dentro de los parámetros del proyecto, ya que, para un rendimiento óptimo en aplicaciones como la lavadora, es necesario integrar más módulos que permitan gestionar un mayor volumen de agua y regular el caudal de forma más eficiente.
 
 
-### Pruebas de la bomba y el circuito eléctrico
+## Pruebas de la bomba y el circuito eléctrico
 
 ![Pruebas de la bomba](../images/PI_IMG/Ensamblaje/prueba_bomba.png)
 
 ![circuito eléctrico](../images/PI_IMG/Ensamblaje/electronico02.png)
 
 
-### Mantenimiento del filtro y evaluación de su funcionalidad.
+### Video Elementos Electrónicos -  Revisión y Funcionamiento
+
+<iframe width="688" height="388" src="https://www.youtube.com/embed/tXCWXE0Mv1I?si=Fgz6USPgP67xK3Jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Mantenimiento del filtro y evaluación de su funcionalidad.
 
 ![Mantenimiento](../images/PI_IMG/Ensamblaje/Mantenimiento.jpg)
-
-En el video adjunto se muestran algunas de las pruebas y ensayos realizados antes de ensamblar el prototipo final:
-
-<iframe width="688" height="388"
-src="https://www.youtube.com/embed/yK3vQS_ltQw?si=NwHAIi9ug4bTfs48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Video Filtro - Revisión y Mantenimiento
@@ -164,9 +169,6 @@ src="https://www.youtube.com/embed/yK3vQS_ltQw?si=NwHAIi9ug4bTfs48" title="YouTu
 <iframe width="688" height="388" src="https://www.youtube.com/embed/liEHHCGcEvI?si=gCaeRS-BRB4Jcq4X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### Video Elementos Electrónicos -  Revisión y Funcionamiento
-
-<iframe width="688" height="388" src="https://www.youtube.com/embed/tXCWXE0Mv1I?si=Fgz6USPgP67xK3Jz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
