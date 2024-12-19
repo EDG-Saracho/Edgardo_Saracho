@@ -34,7 +34,7 @@ En las iteraciones futuras del proyecto, me gustaría probar con más módulos p
 [Descargar Manual de Ensamblaje](<../Descargas/PROYECTO FINAL/FLUJO_PRODUCTIVO_POMPE.pdf>)
 
 3. **Presentación final del proyecto**  
-[tDescargar presentación](<../Descargas/PROYECTO FINAL/Presentacion final AGUAS GRISES_ EFDI.pdf>)
+[Descargar presentación](<../Descargas/PROYECTO FINAL/Presentacion final AGUAS GRISES_ EFDI.pdf>)
 
 ## Conclusiones
 
