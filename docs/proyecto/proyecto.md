@@ -7,7 +7,7 @@ hide:
 
 ## Introducción al Proyecto
 
-Este proyecto surge de un enfoque de diseño abierto, iniciado como mi trabajo final de carrera en 2023, el cual fue presentado y documentado con el objetivo de ser replicable. La problemática abordada se encuentra en los barrios periféricos de Montevideo, donde muchos hogares carecen de conexión al sistema de saneamiento, enfrentándose a riesgos sanitarios y ambientales por el manejo inadecuado de aguas grises (AG).
+Este proyecto surge de un enfoque de diseño abierto, iniciado como mi **trabajo final de carrera en 2023**, el cual fue presentado y documentado con el objetivo de ser replicable. La problemática abordada se encuentra en los barrios periféricos de Montevideo, donde muchos hogares carecen de conexión al sistema de saneamiento, enfrentándose a riesgos sanitarios y ambientales por el manejo inadecuado de aguas grises (AG).
 
 Las aguas grises (AG) son aquellas provenientes de actividades domésticas como el lavado de alimentos, utensilios de cocina, manos, duchas y superficies en general. Representan aproximadamente el 60% del agua consumida en los hogares, según datos de la Unidad Reguladora de Servicios de Energía y Agua (URSEA). Estas aguas, al no contener residuos de inodoros, tienen un potencial significativo para ser tratadas y reutilizadas, lo que contribuye a una gestión más eficiente de los recursos hídricos y a la reducción del impacto ambiental.
 
@@ -17,10 +17,13 @@ Siendo parte de esta comunidad, por residir en la periferia de Montevideo, dise�
 Para abordar esta problemática, se implementaron tecnologías como la electrónica, la impresión 3D y el ruteado de placas de OSB, combinando fabricación digital con materiales locales y económicos. Este enfoque distribuye la capacidad de producción a nivel comunitario y prioriza la sostenibilidad, promoviendo el ahorro de recursos hídricos y la reducción de impactos ambientales.
 El proyecto busca no solo resolver un problema técnico, sino también generar un modelo inclusivo y replicable que fomente la innovación local, el cuidado del medioambiente y la mejora en la calidad de vida.
 
-
 **[Panel Miro - Proyecto](https://miro.com/app/board/uXjVKAVYfr8=/)**
 
 **[Tabla de producción](https://miro.com/app/board/uXjVKlm1tIk=/)**
+
+> En el siguiente enlace podrás descargar mi trabajo de grado, donde profundizo en la investigación sobre el contexto, la comunidad y los usuarios, además de incluir los resultados de encuestas y una bibliografía detallada que respalda el proyecto.
+
+> **[Saracho Vaz, E. (2023.). Dispositivo para la recuperación y reutilización de aguas grises evitando su vertido en cunetas pluviales. Tesis de grado. Universidad de la República (Uruguay). Facultad de Arquitectura, Diseño y Urbanismo.](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/42447)**
 
 ## Metodología proyectual
 

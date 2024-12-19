@@ -166,6 +166,8 @@ Sin embargo, al realizar la prueba en la lavadora, el caudal de agua resultó se
 
 ### Video Filtro - Revisión y Mantenimiento
 
+Para realizar el mantenimiento del filtro, primero se separan las plantas y se retiran las piedras utilizando el agarre, colocándolas sobre una lona o dentro de un balde para facilitar el proceso. Luego, se retiran el mulch y el algodón, separándolos cuidadosamente. El mulch puede devolverse a la tierra junto con los posibles lodos, aprovechándolos como nutrientes orgánicos. La barrera filtrante se limpia cuidadosamente, verificando que no haya obstrucciones. Finalmente, las piedras se limpian o sacuden antes de ser reinstaladas en el filtro.
+
 <iframe width="688" height="388" src="https://www.youtube.com/embed/liEHHCGcEvI?si=gCaeRS-BRB4Jcq4X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
