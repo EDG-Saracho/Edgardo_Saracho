@@ -1,7 +1,7 @@
 
 ## Introducción
 
-En esta página presento el proceso de ensamblaje del prototipo, junto con una lista de insumos detallada, incluyendo sus precios en el mercado local. Muchos de los componentes se adquirieron a través de plataformas como Mercado Libre.
+En esta página presento el proceso de materialización del prototipo, junto con una lista de insumos detallada, incluyendo sus precios en el mercado local. Muchos de los componentes se adquirieron a través de plataformas como Mercado Libre.
 
 ![Insumos](../images/PI_IMG/Ensamblaje/insumos_.png)
 
